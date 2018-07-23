@@ -5,6 +5,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: infrastructure_ninja.svg
+
 - name: Do More Faster
   description: lorum
   rarity: 20
@@ -12,6 +13,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: do_more_faster.svg
+
 - name: Elixer Creator
   description: lorum
   rarity: 20
@@ -19,6 +21,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: elixer_creator.svg
+
 - name: Collaboration Machine
   description: lorum
   rarity: 20
@@ -26,6 +29,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: collaboration_machine.svg
+
 - name: Unix Philosophy
   description: lorum
   rarity: 20
@@ -33,6 +37,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: unix_philosophy.svg
+
 - name: Qa Ninja
   description: lorum
   rarity: 20
@@ -40,6 +45,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: qa_ninja.svg
+
 - name: Ruby Rockstar
   description: lorum
   rarity: 20
@@ -47,6 +53,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: ruby_rockstar.svg
+
 - name: Oss Freedom Fighter
   description: lorum
   rarity: 20
@@ -54,6 +61,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: oss_freedom_fighter.svg
+
 - name: Elixer Mixer
   description: lorum
   rarity: 20
@@ -61,6 +69,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: elixer_mixer.svg
+
 - name: Be Open To Point Of Promiscuity
   description: lorum
   rarity: 20
@@ -68,6 +77,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: be_open_to_point_of_promiscuity.svg
+
 - name: Problem Solver
   description: lorum
   rarity: 20
@@ -75,6 +85,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: problem_solver.svg
+
 - name: Sustainer
   description: lorum
   rarity: 20
@@ -82,6 +93,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: sustainer.svg
+
 - name: Juggler
   description: lorum
   rarity: 20
@@ -89,6 +101,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: juggler.svg
+
 - name: Above And Beyond
   description: lorum
   rarity: 20
@@ -96,6 +109,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: above_and_beyond.svg
+
 - name: Gitbadeege2v2
   description: lorum
   rarity: 20
@@ -103,6 +117,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: gitbadeege2v2.svg
+
 - name: Design Star
   description: lorum
   rarity: 20
@@ -110,6 +125,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: design_star.svg
+
 - name: Handyman
   description: lorum
   rarity: 20
@@ -117,6 +133,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: handyman.svg
+
 - name: Always Shipping
   description: lorum
   rarity: 20
@@ -124,6 +141,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: always_shipping.svg
+
 - name: Cleanest Code
   description: lorum
   rarity: 20
@@ -131,6 +149,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: cleanest_code.svg
+
 - name: Release Early And Often
   description: lorum
   rarity: 20
@@ -138,6 +157,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: release_early_and_often.svg
+
 - name: Fast Turn Around
   description: lorum
   rarity: 20
@@ -145,6 +165,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: fast_turn_around.svg
+
 - name: Gears Worker
   description: lorum
   rarity: 20
@@ -152,6 +173,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: gears_worker.svg
+
 - name: Night Owl
   description: lorum
   rarity: 20
@@ -159,6 +181,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: night_owl.svg
+
 - name: Be Open
   description: lorum
   rarity: 20
@@ -166,6 +189,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: be_open.svg
+
 - name: Sustain Oss
   description: lorum
   rarity: 20
@@ -173,6 +197,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: sustain_oss.svg
+
 - name: Infra Ninja
   description: lorum
   rarity: 20
@@ -180,6 +205,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: infra_ninja.svg
+
 - name: Helping Hand
   description: lorum
   rarity: 20
@@ -187,6 +213,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: helping_hand.svg
+
 - name: Superhero
   description: lorum
   rarity: 20
@@ -194,6 +221,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: superhero.svg
+
 - name: Pythonista
   description: lorum
   rarity: 20
@@ -201,6 +229,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: pythonista.svg
+
 - name: Level Up
   description: lorum
   rarity: 20
@@ -208,6 +237,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: level_up.svg
+
 - name: Delegate Everything You Can
   description: lorum
   rarity: 20
@@ -215,6 +245,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: delegate_everything_you_can.svg
+
 - name: Artist
   description: lorum
   rarity: 20
@@ -222,6 +253,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: artist.svg
+
 - name: Masterpiece Painter
   description: lorum
   rarity: 20
@@ -229,6 +261,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: masterpiece_painter.svg
+
 - name: Eye For Detail
   description: lorum
   rarity: 20
@@ -236,6 +269,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: eye_for_detail.svg
+
 - name: Be Of All Trades
   description: lorum
   rarity: 20
@@ -243,6 +277,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: be_of_all_trades.svg
+
 - name: Super Juggler
   description: lorum
   rarity: 20
@@ -250,6 +285,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: super_juggler.svg
+
 - name: App Dev All Star
   description: lorum
   rarity: 20
@@ -257,6 +293,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: app_dev_all_star.svg
+
 - name: Product Wizard
   description: lorum
   rarity: 20
@@ -264,6 +301,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: product_wizard.svg
+
 - name: Business Mind
   description: lorum
   rarity: 20
@@ -271,6 +309,7 @@
   numClonesAllowed: 10
   tags: ipsum
   image: business_mind.svg
+  
 - name: Bug Squasher
   description: lorum
   rarity: 20
