@@ -9,7 +9,7 @@ fnames = [x for x in os.listdir('images') if x.endswith('.svg')]
 
 names = []
 for fname in fnames:
-    name = ' '.join([x.capitalize() for x in re.sub(r'\.svg$', '', fname).split('_')])
+    name = ''.join([x.lower() for x in re.sub(r'\.svg$', '', fname)])
     names.append((name, fname))
 
 
