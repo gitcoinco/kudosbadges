@@ -143,7 +143,7 @@
   rarity: 10
   priceFinney: 2
   numClonesAllowed: 150
-  tags: ipsum
+  tags: ruby, web, programmer
   image: ruby.svg
 - name: Mega-Open Collaborator
   description: "Be open to the point of promiscuity" is one of our favorite points from the famous essay from Eric Raymond entitled 'The Cathedral and the Bazaar'.  Owners of this badge embody the principle of Openness from the Cathedral and the Bazaar.
@@ -201,6 +201,13 @@
   numClonesAllowed: 210
   tags: soft skills, programmer, technical, handyman
   image: handyman.svg
+- name: Handy-Woman
+  description: Its great to have a handy woman around your house when your sink, plumbing, electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They fix stuff, and do it with a smile on their face!
+  rarity: 30
+  priceFinney: 2
+  numClonesAllowed: 210
+  tags: soft skills, programmer, technical, handywoman
+  image: handy_woman.svg
 - name: Data Savvy
   description: Being Data-Driven is an asset in today's world.  Owners of this badge have mastered the abiltiy to gather, cultivate, clean, gain insight, and deliver value from a dataset
   rarity: 20
@@ -241,7 +248,7 @@
   rarity: 20
   priceFinney: 2
   numClonesAllowed: 500
-  tags: ipsum
+  tags: c#, programmer
   image: c#.svg
 - name: Cleanest Code
   description: Want to work with someone who is famous for having squeaky clean code?  Look no further than owners of the 'Cleanest Code' Kudos. 
@@ -318,7 +325,7 @@
   rarity: 60
   priceFinney: 10
   numClonesAllowed: 500
-  tags: ipsum
+  tags: soft skills, inspiration
   image: utopia.svg
 - name: C Programmer
   description: Need a programmer for your performant, object oriented, project that can manage their own memory and manage on-scope and on-budget!? Look no further; Owners of this badge are renown for their work in the C programming language.
@@ -374,7 +381,7 @@
   rarity: 20
   priceFinney: 2
   numClonesAllowed: 500
-  tags: ipsum
+  tags: soft skills, programmer
   image: level_up.svg
 - name: Delegation Machine
   description: Owners of this badge are known for their ability to clearly articulate requirements, to work with collaborators of all types, and to product value in a team atmosphere!
@@ -451,7 +458,7 @@
   rarity: 10
   priceFinney: 1
   numClonesAllowed: 340
-  tags: ipsum
+  tags: app, web, programmer
   image: app_dev_all_star.svg
 - name: Go Developer
   description: Looking for someone who can Go Go Go and BUIDL in Go?  This kudos is for you.
@@ -472,12 +479,19 @@
   rarity: 30
   priceFinney: 3
   numClonesAllowed: 340
-  tags: ipsum
+  tags: business, soft skills
   image: business_mind.svg
 - name: Bug Squasher
   description: Splat goes the bug!  Owners of this badge are proficient at squashing bugs.
   rarity: 20
   priceFinney: 2
   numClonesAllowed: 500
-  tags: ipsum
+  tags: bugs, soft skills
   image: bug_squasher.svg
+- name: Shill Ethereum
+  description: For your friends & family who just love to shill Ethereum
+  rarity: 20
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: ethereum, shills
+  image: shill_ethereum.svg
