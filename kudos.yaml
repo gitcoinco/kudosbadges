@@ -495,3 +495,17 @@
   numClonesAllowed: 500
   tags: ethereum, shills
   image: shill_ethereum.svg
+- name: Shill Colorado
+  description: For your friends & family who just love to shill Colorado
+  rarity: 20
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: colorado, shills
+  image: shill_colorado.svg
+- name: Devcon 4
+  description: For your friends & family who came to Devcon 4 with you.
+  rarity: 20
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: devcon, ethereum, shills
+  image: devcon_4.svg
