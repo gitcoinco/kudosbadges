@@ -1,525 +1,518 @@
-- name: hadoop
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Hadoop Master
+  description: You are a Master of MapReduce, a sultan of reliable, distributed, and scalable computing.  Owners of this badge are infamous for their mastery of distributing processing of large data sets!
+  rarity: 25
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: hadoop, distributed, scalable, data
   image: hadoop.svg
-- name: linux_wizard
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Linux Wizard
+  description: All hail the Linux Penguin!  Linux is a force in open source, powering millions of websites and businesses.  Owners of this badge are known for their mastery of the Linux family of Operating Systems!
+  rarity: 25
+  priceFinney: 3
+  numClonesAllowed: 500
+  tags: linux, open source, penguin, OS
   image: linux_wizard.svg
-- name: gitcoin_genesis
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Gitcoin Genesis
+  description: The Gitcoin Genesis Badge is the rarest of the Gitcoin team badges.  Owners of this badge contributed to Gitcoin in a meaningful way in the way-back-when.
+  rarity: 100
+  priceFinney: 2000
+  numClonesAllowed: 450
+  tags: gitcoin, genesis, rare
   image: gitcoin_genesis.svg
-- name: rails_2
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Ruby on Rails Hacker
+  description: Can anyone spin up websites faster than a Ruby on Rails hacker? Owners of this badge are famous for their mastery of MVC website development, DRY, and use of Active Record. 
+  rarity: 10
+  priceFinney: 5
+  numClonesAllowed: 550s
+  tags: rails, ruby, web, MVC, DRY
   image: rails_2.svg
-- name: javascript
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Javascript Juju
+  description: Remember the web in the days before javascript?  No?  Neither can we!  Javascript powers the modern web, top to bottom and we <3 the usage of javascript here at Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming language and specifically, of client side scripting!
+  rarity: 15
+  priceFinney: 3
+  numClonesAllowed: 500
+  tags: javascript, node, web
   image: javascript.svg
-- name: infrastructure_ninja
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Infrastructure Ninja
+  description: Just like every building needs a solid foundation, every website needs a great infrastructure.  Infrastructure Ninjas are rarely seen or heard, but they are omnipresent -- Quickly tackling the gnarly infrastructure issues that crop up in the modern web, and ensuring stability, peace, performance, and prosperity for inhabinants the modern web.
+  rarity: 23
+  priceFinney: 2
+  numClonesAllowed: 300
+  tags: OS, infrastructure, linux
   image: infrastructure_ninja.svg
-- name: java
-  description: lorum
+- name: Java Juice
+  description: Is there anything better than a cup 'o' Joe in the morning? Java can be written once and run everywhere; so what better tool to BUIDL on in the modern, blockchain-enabled, web?  Owners of the Java Juice badge are famous for their mastery of the Java programming language!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: java, web, sun
   image: java.svg
-- name: do_more_faster
-  description: lorum
+- name: Do More Faster
+  description: Is there anything better than working with someone who can rapidly iterate?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of the Do More Faster badge, well, they DO MORE FASTER!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: do more faster, iteration, hypothesis testing, soft skills
   image: do_more_faster.svg
-- name: jquery
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: jQuery Justice
+  description: jQuery is a force in the modern web.  By solving compatibilty issues across browsers, and providing a friendly interface for developing AJAX websites, jQuery won our <3s.  To owners of this badge, thank you for using jQuery to provide Justice to all!
+  rarity: 25
+  priceFinney: 2
+  numClonesAllowed: 800
+  tags: jquery, javascript, web, MVC
   image: jquery.svg
-- name: elixer_creator
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Elixer Mixer
+  description: Elixer Mixers are known for their alchemy.  Just as a chemist combines fundamental chemical primitives to create potions that are near-magic, an Elixer Mixer combines functional programming with the Erlang VM to to produce low-latency, fault tolerant, systems!
+  rarity: 45
+  priceFinney: 2
+  numClonesAllowed: 250
+  tags: elixer, erlang, functional
   image: elixer_creator.svg
-- name: collaboration_machine
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Collaboration Machine
+  description: Is there anything better than working with a collaboration machine?  Known for their communication skills, rapid value delivery, and great attitudes, Collaboration Machines are a huge asset to the modern programming ecosystem!
+  rarity: 15
+  priceFinney: 1
+  numClonesAllowed: 300
+  tags: collaboration, soft skills
   image: collaboration_machine.svg
-- name: unix_philosophy
-  description: lorum
+- name: Unix Philosophy
+  description: Owners of this badge 'Write programs that do one thing and do it well'; just like the UNIX OS!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: unix, build once, OS
   image: unix_philosophy.svg
-- name: jquery_2
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: jQuery Juju
+  description: jQuery is a force in modern open source.  By solving compatibilty issues across browsers, and providing a friendly interface for developing AJAX websites, jQuery won our <3s.  To owners of this badge, thank you for using jQuery to provide Juju to all!
+  rarity: 25
+  priceFinney: 2
+  numClonesAllowed: 800
+  tags: jquery, javascript, web, MVC
   image: jquery_2.svg
-- name: ruby2
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Ruby Gem
+  description: Is there anyone who knows more about 'gem's than someone who's good enough at Ruby, to be a 'Gem' themselves? Owners of this badge are known for their mastery of the Ruby programming language.
+  rarity: 10
+  priceFinney: 5
+  numClonesAllowed: 550s
+  tags: rails, ruby, web, MVC, DRY
   image: ruby2.svg
-- name: angular
-  description: lorum
+- name: Angular Master
+  description: AngularJS is a great extension of javsacript, and we love how it lets use declare dynamic views for our dApps!  Owners of this badge are masters of the AngularJS programming framework!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: angular, javascript, mvc, web
   image: angular.svg
-- name: qa_ninja
-  description: lorum
+- name: QA Ninja
+  description: Rarely heard or seen, the modern QA Ninja is a hyper-efficient finder and reporter of bugs.  Got a number input on an HTML form?  They'll find a way to type 'LIZARD' into it?  Buffer overflow somewhere in your dApp?  They'll find it.  QA Ninjas make the web bug free, and we salute them!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 700
+  tags: qa, ninja, bugs, bug squasher
   image: qa_ninja.svg
-- name: ship_code
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Code Shipper
+  description:  Know who we LOVE working with?  Programmers who are always shipping code!  Always. Be. Shipping. 
+  rarity: 25
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: shipping, soft skills,
   image: ship_code.svg
-- name: durpal
-  description: lorum
+- name: Drupal Master
+  description: Want to ship content on the modern web?  Drupal is where it's at.  The leading Open Source CMS has provided tons of value to the modern web, and adding a Drupal Master to your project is a sure fire way to make your CMS fly!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: drupal, CMS, web
   image: durpal.svg
-- name: ruby_rockstar
-  description: lorum
+- name: Ruby on Rails Master
+  description: Can anyone spin up websites faster than a Ruby on Rails Master? Owners of this badge are legitimately famous for their mastery of MVC website development, DRY, and use of Active Record. 
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 4
+  numClonesAllowed: 200
+  tags: rails, ruby, web, MVC, DRY
   image: ruby_rockstar.svg
-- name: oss_freedom_fighter
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+- name: Open Source Freedom Fighter
+  description: Hey, look -- In the sky, it's a bird.  No it's a plane.  No it's an Open Source Freedom Fighter!  OSS Freedom Fighters fight for liberty, justice, and open source code for all!
+  rarity: 50
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: oss, soft skills
   image: oss_freedom_fighter.svg
-- name: ruby
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
+- name: Ruby Master
+  description: Can anyone spin up clean code faster than a Ruby on Rails Master? Owners of this badge are mega famous for their mastery of Ruby, Gems, and the Ruby ecosystem. 
+  rarity: 10
+  priceFinney: 2
+  numClonesAllowed: 150
   tags: ipsum
   image: ruby.svg
-- name: elixer_mixer
-  description: lorum
+- name: Mega-Open Collaborator
+  description: "Be open to the point of promiscuity" is one of our favorite points from the famous essay from Eric Raymond entitled 'The Cathedral and the Bazaar'.  Owners of this badge embody the principle of Openness from the Cathedral and the Bazaar.
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: elixer_mixer.svg
-- name: be_open_to_point_of_promiscuity
-  description: lorum
-  rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: soft skills, open
   image: be_open_to_point_of_promiscuity.svg
-- name: problem_solver
-  description: lorum
+- name: Problem Solver
+  description: Is there anything better than working with someone who can rapidly solve problems?  The modern web is built by Agile, and favors experimentation and iteration.  Owners of this badge, well, they SOLVE PROBLEMS!
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
-  tags: ipsum
+  priceFinney: 2
+  numClonesAllowed: 500
+  tags: soft skills
   image: problem_solver.svg
 - name: sustainer
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: sustainer.svg
 - name: juggler
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: juggler.svg
 - name: above_and_beyond
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: above_and_beyond.svg
 - name: gitbadeege2v2
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: gitbadeege2v2.svg
 - name: design_star
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: design_star.svg
 - name: handyman
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: handyman.svg
 - name: data_savvy
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: data_savvy.svg
 - name: idea_person
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: idea_person.svg
 - name: nodejjs_2
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: nodejJS_2.svg
 - name: always_shipping
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: always_shipping.svg
 - name: php_2
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: php_2.svg
 - name: c#
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: c#.svg
 - name: cleanest_code
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: cleanest_code.svg
 - name: nodejjs_3
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: nodejJS_3.svg
 - name: release_early_and_often
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: release_early_and_often.svg
 - name: grow_opensource
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: grow_opensource.svg
 - name: mongodb
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: mongoDB.svg
 - name: direct
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: direct.svg
 - name: fast_turn_around
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: fast_turn_around.svg
 - name: gears_worker
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: gears_worker.svg
 - name: css
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: css.svg
 - name: night_owl
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: night_owl.svg
 - name: php
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: php.svg
 - name: be_open
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: be_open.svg
 - name: c
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: c.svg
 - name: redux
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: redux.svg
 - name: sustain_oss
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: sustain_oss.svg
 - name: rails
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: rails.svg
 - name: helping_hand
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: helping_hand.svg
 - name: nodejjs
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: nodejJS.svg
 - name: c++
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: c++.svg
 - name: superhero
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: superhero.svg
 - name: pythonista
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: pythonista.svg
 - name: level_up
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: level_up.svg
 - name: delegate_everything_you_can
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: delegate_everything_you_can.svg
 - name: artist
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: artist.svg
 - name: masterpiece_painter
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: masterpiece_painter.svg
 - name: react
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: react.svg
 - name: busines_smind
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: busines_smind.svg
 - name: html
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: html.svg
 - name: eye_for_detail
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: eye_for_detail.svg
 - name: ember
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: ember.svg
 - name: django
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: django.svg
 - name: be_of_all_trades
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: be_of_all_trades.svg
 - name: mysql
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: mysql.svg
 - name: super_juggler
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: super_juggler.svg
 - name: app_dev_all_star
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: app_dev_all_star.svg
 - name: go
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: go.svg
 - name: product_wizard
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: product_wizard.svg
 - name: business_mind
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: business_mind.svg
 - name: bug_squasher
   description: lorum
   rarity: 20
-  price: 1
-  numClonesAllowed: 10
+  priceFinney: 2
+  numClonesAllowed: 500
   tags: ipsum
   image: bug_squasher.svg
