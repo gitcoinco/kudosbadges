@@ -321,7 +321,7 @@
   priceFinney: 2
   numClonesAllowed: 500
   tags: mongodb, db
-  image: mongoDB.svg
+  image: mongodb_juggler.svg
 - name: navigator
   description: Want to work with someone who can navigate through complexity and deliver
     on-time, on-scope, and on-budget?  Look no further than owneres of this kudos!
