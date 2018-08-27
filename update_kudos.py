@@ -28,7 +28,7 @@ for name in names:
         obj = dict(name=name[0],
                    description='lorum',
                    rarity=20,
-                   price=1,
+                   priceFinney=1,
                    numClonesAllowed=10,
                    tags='ipsum',
                    image=name[1]
