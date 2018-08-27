@@ -646,7 +646,7 @@
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
-  tags: ipsum
+  tags: powertools, tools
   image: powertool_user.svg
 - name: party_robot
   description: Is one of your teammates just a lot of fun to be around?  Send them a Party Robot Kudos.
