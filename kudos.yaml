@@ -64,16 +64,16 @@
   numClonesAllowed: 500
   tags: do more faster, iteration, hypothesis testing, soft skills
   image: do_more_faster.svg
-- name: jquery_justice
+- name: jQuery Fixer
   description: jQuery is a force in the modern web.  By solving compatibilty issues
     across browsers, and providing a friendly interface for developing AJAX websites,
     jQuery won our <3s.  To owners of this badge, thank you for using jQuery to provide
-    Justice to all!
+    Fixes to all!
   rarity: 25
   priceFinney: 2
   numClonesAllowed: 800
   tags: jquery, javascript, web, MVC
-  image: jquery.svg
+  image: jquery_fixator.svg
 - name: elixer_mixer
   description: Elixer Mixers are known for their alchemy.  Just as a chemist combines
     fundamental chemical primitives to create potions that are near-magic, an Elixer
