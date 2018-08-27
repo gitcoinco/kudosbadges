@@ -24,15 +24,6 @@
   numClonesAllowed: 450
   tags: gitcoin, genesis, rare
   image: gitcoin_genesis.svg
-- name: ruby_on_rails_hacker
-  description: Can anyone spin up websites faster than a Ruby on Rails hacker? Owners
-    of this badge are famous for their mastery of MVC website development, DRY, and
-    use of Active Record.
-  rarity: 10
-  priceFinney: 5
-  numClonesAllowed: 550
-  tags: rails, ruby, web, MVC, DRY
-  image: rails_2.svg
 - name: javascript_master_scribe
   description: Remember the web in the days before javascript?  No?  Neither can we!  Javascript
     powers the modern web, top to bottom and we <3 the usage of javascript here at
@@ -183,14 +174,6 @@
   numClonesAllowed: 500
   tags: oss, soft skills
   image: oss_freedom_fighter.svg
-- name: ruby_master
-  description: Can anyone spin up clean code faster than a Ruby on Rails Master? Owners
-    of this badge are mega famous for their mastery of Ruby, Gems, and the Ruby ecosystem.
-  rarity: 10
-  priceFinney: 2
-  numClonesAllowed: 150
-  tags: ruby, web, programmer
-  image: ruby.svg
 - name: mega-open_collaborator
   description: '"Be open to the point of promiscuity" is one of our favorite points
     from the famous essay from Eric Raymond entitled "The Cathedral and the Bazaar".  Owners
