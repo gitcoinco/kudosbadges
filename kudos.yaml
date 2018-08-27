@@ -201,7 +201,7 @@
   numClonesAllowed: 500
   tags: soft skills, sustainer, open source
   image: sustainer.svg
-- name: juggler
+- name: Super Juggler
   description: Jugglers are known for their joyous attitude and their ability to manage
     multiple balls in the air at once.  Owners of this badge can contribute meaningfully
     to several projects at once and not let a single one drop!
@@ -209,7 +209,7 @@
   priceFinney: 2
   numClonesAllowed: 500
   tags: soft skills, project management
-  image: juggler.svg
+  image: super_juggler.svg
 - name: above_and_beyond
   description: Owners of this badge are always under-promising and over-delivering.  They
     go 'above and beyond' for their clients!
@@ -272,16 +272,6 @@
   numClonesAllowed: 500
   tags: soft skills, ideas, project manager, product manager
   image: idea_person.svg
-- name: node_js_ninja
-  description: Remember the bad old days in the web before javascript?  Javascript
-    powers the modern web, top to bottom and we <3 the usage of javascript here at
-    Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming
-    language and specifically, of server side scripting!
-  rarity: 30
-  priceFinney: 4
-  numClonesAllowed: 300
-  tags: javascript, nodeJS, node, asyncronous
-  image: nodejJS_2.svg
 - name: always_shipping
   description: Know who we LOVE working with?  Programmers who are always shipping
     code!  Always. Be. Shipping.
@@ -290,15 +280,6 @@
   numClonesAllowed: 500
   tags: shipping, SHIPL, soft skils
   image: always_shipping.svg
-- name: php_programmer
-  description: PHP -- The og web developers programming language!  Know whats cool
-    about PHP?  It's a recursive acronym, "PHP Hypertext Processor".  Want a PHP programmer
-    for your project? Look no further than to owners of this badge!
-  rarity: 15
-  priceFinney: 2
-  numClonesAllowed: 200
-  tags: php, programmer, php6, php7
-  image: php_2.svg
 - name: c#_programmer
   description: Need someone who uses strong typing, declarative, functional, code?  Look
     no further than the owners of the C# Blacksmith Kudos!
@@ -315,16 +296,6 @@
   numClonesAllowed: 500
   tags: clean code, programmer, soft skills
   image: cleanest_code.svg
-- name: node_js_user
-  description: Remember the bad old days in the web before javascript?  Javascript
-    powers the modern web, top to bottom and we <3 the usage of javascript here at
-    Gitcoin.  Owners of this badge are masters of the asyncronous, event driven, programming
-    language and specifically, of server side scripting!
-  rarity: 30
-  priceFinney: 4
-  numClonesAllowed: 300
-  tags: javascript, nodeJS, node, asyncronous
-  image: nodejJS_3.svg
 - name: relase_early_and_often
   description: Want to work with someone who RERO (Relase Early and Often)? RERO is
     a software development philosophy that emphasizes the importance of early and
