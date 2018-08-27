@@ -397,13 +397,13 @@
   numClonesAllowed: 100
   tags: arts, design, frontend, aesthetics
   image: artist.svg
-- name: React
+- name: React Reactor
   description: React is a force in the modern web, and so are those who can yield it.   Owners of this badge have demonstrated proficiency in React on a past project.
   rarity: 40
   priceFinney: 3
   numClonesAllowed: 400
   tags: react, javascript, programming
-  image: react.svg
+  image: react_reactor.svg
 - name: Business Minded
   description: Looking for someone who can deliver the goods from a business side of things?  Look no further than owners of this 'business minded' kudos.
   rarity: 70
