@@ -606,7 +606,7 @@
   numClonesAllowed: 100
   tags: gitcoin, mission, grow open source
   image: gitcoin_sustainer.svg
-- name: growopen_source
+- name: grow_open_source
   description: A very special, limited edition, Kudos, only for contributors to Gitcoin.
   rarity: 20
   priceFinney: 1
