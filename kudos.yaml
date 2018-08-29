@@ -739,7 +739,7 @@
   tags: robot, just for fun, gitcoin
   image: robot_large.svg
 - name: genius
-  description: This kudos is for the genius collaborators in your world.
+  description: A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
