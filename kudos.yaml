@@ -753,4 +753,11 @@
   numClonesAllowed: 100
   tags: vitalik, just for fun
   image: vitalik_genesis.svg
+- name: eth_hacker
+  description: You spin up DAPPS on the weekend, just for fun.
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 100
+  tags: ethereum, hacker, hackathon, eth
+  image: eth_hacker2.svg
 
