@@ -662,18 +662,16 @@
   tags: soft skills, agile
   image: release_early_and_often.svg
 - name: direct
-  description: 
-  Holders of this badge seek the most straightforward ways to solve problem. Our great challenge is finding the shortest path to the truth
-
+  description: Holders of this badge seek the most straightforward ways to solve problem.
+    Our great challenge is finding the shortest path to the truth
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
   tags: direct, path, navigator
   image: direct.svg
 - name: crystal_ball
-  description: 
-  A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Grow Oss Crystal Ball holders are visionaries that transform what’s happening into an understandable future. 
-
+  description: A crystal ball is just a way to predict the future, but hidden inside is a compelling story.
+    Grow Oss Crystal Ball holders are visionaries that transform what’s happening into an understandable future.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
@@ -743,7 +741,8 @@
   tags: robot, just for fun, gitcoin
   image: robot_large.svg
 - name: genius
-  description: A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.
+  description: A Genius bring ideas to life. We activate creative thinking and push problem solving
+    with our words and stories. The world is our experiment lab, and we are players in it.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
