@@ -748,7 +748,7 @@
   image: a_genius.svg
 - name: vitalik_genesis
   description: A kudos that celebrates Vitalik's leadership in the Ethereum world.
-  rarity: 20
+  rarity: 90
   priceFinney: 1
   numClonesAllowed: 100
   tags: vitalik, just for fun
