@@ -585,14 +585,14 @@
   tags: collboration, soft skills
   image: collaboration_robot.svg
 - name: path_finder
-  description: Path Finders are those who are able to carve a path through an uncertain roadmap.
+  description: Pathfinders are masters of navigation, able to pave ways forward without hesitation. The amount of trees or woods are no concern - we won’t rest until the right path has been uncovered.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
   tags: soft skills, path, finder
   image: path_finder.svg
 - name: climb_to_sky
-  description: Know someone who's skills, ambition, or talent knows no limits?  Give them a 'climb to the sky' Kudos!
+  description: A ladder climber propels upward into dreams and helps to paint a sharable vision. We can do it all from start to finish - to build new experiences for the open source community around us. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
@@ -655,21 +655,25 @@
   tags: party, fun, soft skills
   image: party_robot.svg
 - name: release_early_and_often
-  description: One of the important tenants of the Agile Manifesto is that you release early and often.  This badge is designed to highlighyt the contributors who release early and often!
+  description: With the goal of releasing in mind, we help sustain the ecosystem by shipping quickly to learn quickly. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
   tags: soft skills, agile
   image: release_early_and_often.svg
 - name: direct
-  description: Know someone who's great at finding the right path to an issue?  Send them a 'direct' Kudos
+  description: 
+  Holders of this badge seek the most straightforward ways to solve problem. Our great challenge is finding the shortest path to the truth
+
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
   tags: direct, path, navigator
   image: direct.svg
 - name: crystal_ball
-  description: Know someone who's got great vision?  Someone who can seemingly see into the future?  Send them a Crystal Ball Kudos
+  description: 
+  A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Grow Oss Crystal Ball holders are visionaries that transform what’s happening into an understandable future. 
+
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
