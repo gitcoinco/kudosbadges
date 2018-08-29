@@ -1,118 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="841.889px" height="1190.551px" viewBox="0 0 841.889 1190.551" enable-background="new 0 0 841.889 1190.551"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="110.979px" height="128.417px" viewBox="0 0 110.979 128.417" enable-background="new 0 0 110.979 128.417"
 	 xml:space="preserve">
-<g>
-	<polygon fill="#2E3192" points="724.156,770.559 724.156,420.649 420.945,245.694 117.733,420.649 117.733,770.559 
-		420.945,945.514 	"/>
+<g id="Layer_1">
 </g>
-<g opacity="0.48" enable-background="new    ">
+<g id="Layer_4">
 	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="409.445,225.775 76.445,410.775 90.445,780.775 426.445,979.775 758.445,782.775 736.445,392.775 
-							"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<g opacity="0.51" clip-path="url(#SVGID_2_)">
-			<text transform="matrix(1 0 0 1 -13.156 247.6501)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111101     0011010  0        1100 10 000111101     0011010  0        1100</text>
-			<text transform="matrix(1 0 0 1 -13.156 274.865)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001      0011  010  0        110      00001      0011  010  0        110      00  </text>
-			<text transform="matrix(1 0 0 1 -13.156 302.0798)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11010  0    1100 100000  01     00 11   010  0    1100 100000   </text>
-			<text transform="matrix(1 0 0 1 -13.156 383.7244)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 1                      00 100    000   101     00 110   10  0    110 </text>
-			<text transform="matrix(1 0 0 1 -13.156 329.2947)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
-			<text transform="matrix(1 0 0 1 -13.156 356.5173)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001         010  0        110       0 1         010  0        110       0 100</text>
-			<text transform="matrix(1 0 0 1 -13.156 410.947)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111101     0011010  0        1100 10        11101     0011010  0        1100</text>
-			<text transform="matrix(1 0 0 1 -13.156 438.1619)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001      0011  010  0        110      00001      0011  010  0        110      00  </text>
-			<text transform="matrix(1 0 0 1 -13.156 465.3767)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 1               00 100000  01     00 11   010  0    1100 100000   </text>
-			<text transform="matrix(1 0 0 1 -13.156 547.0173)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
-			<text transform="matrix(1 0 0 1 -13.156 492.5916)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111                         0        110   0 10   011     00 11     0  10  0        11  </text>
-			<text transform="matrix(1 0 0 1 -13.156 519.8025)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001         010  0        110       0 100 01         010  0        110       0 100</text>
-			<text transform="matrix(1 0 0 1 -13.156 574.2322)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111101     0011010  0                      11101     0011010  0        1100</text>
-			<text transform="matrix(1 0 0 1 -13.156 601.447)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001      0                0  0        110      00001      0011  010  0        110      00  </text>
-			<text transform="matrix(1 0 0 1 -13.156 628.6619)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11               100 100000  01     00 11   010  0    1100 100000   </text>
-			<text transform="matrix(1 0 0 1 -13.156 710.3142)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
-			<text transform="matrix(1 0 0 1 -13.156 655.8845)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
-			<text transform="matrix(1 0 0 1 -13.156 683.0916)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001         010  0        110       0 100 01         010  0        110       0 100</text>
-			<text transform="matrix(1 0 0 1 -13.156 791.9587)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
-			<text transform="matrix(1 0 0 1 -13.156 737.5291)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111                         0        110   0 10   011     00 11     0  10  0        11  </text>
-			<text transform="matrix(1 0 0 1 -13.156 764.7439)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001         010  0        110       0 100 01         010  0        110       0 100</text>
-			<text transform="matrix(1 0 0 1 -13.156 819.1736)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111101     0011010  0                      11101     0011010  0        1100</text>
-			<text transform="matrix(1 0 0 1 -13.156 846.3884)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001      0                0  0        110      00001      0011  010  0        110      00  </text>
-			<text transform="matrix(1 0 0 1 -13.156 873.6033)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11               100 100000  01     00 11   010  0    1100 100000   </text>
-			<text transform="matrix(1 0 0 1 -13.156 955.2517)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
-			<text transform="matrix(1 0 0 1 -13.156 900.8181)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
-			<text transform="matrix(1 0 0 1 -13.156 928.033)" fill="#FFFFFF" font-family="'Verdana'" font-size="24.9647">001         010  0        110       0 100 01         010  0        110       0 100</text>
-		</g>
+		<polygon fill="#2E3192" points="101.633,90.945 101.633,37.572 55.557,10.886 9.479,37.572 9.479,90.945 55.557,117.632 		"/>
 	</g>
-</g>
-<g>
-	<path fill="#662D91" d="M421.274,945.185L118.062,770.23V420.32l303.212-174.955L724.486,420.32v349.91L421.274,945.185z
-		 M56.236,805.748l365.038,210.472l364.38-210.472V384.802l-364.38-210.472L56.236,384.802V805.748z"/>
-	<g>
-		<g opacity="0.13">
+	<g opacity="0.48" enable-background="new    ">
+		<g>
 			<g>
-				<path d="M133.847,429.528l287.427-165.747l286.769,165.747v331.494L421.274,926.769L133.847,761.022V429.528z M118.719,420.32
-					v349.91l302.555,174.955L723.827,770.23V420.977L421.274,246.022L118.719,420.32z"/>
+				<defs>
+					<polygon id="SVGID_1_" points="53.809,7.848 3.205,36.066 5.333,92.503 56.392,122.859 106.844,92.81 103.501,33.321 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g opacity="0.51" clip-path="url(#SVGID_2_)">
+					<text transform="matrix(0.9963 0 0 1 -10.4106 11.1851)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111101     0011010  0        1100 10 000111101     0011010  0        1100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 15.3364)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001      0011  010  0        110      00001      0011  010  0        110      00  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 19.4868)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11010  0    1100 100000  01     00 11   010  0    1100 100000   </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 31.9409)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 1                      00 100    000   101     00 110   10  0    110 </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 23.6382)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 27.7905)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001         010  0        110       0 1         010  0        110       0 100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 36.0933)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111101     0011010  0        1100 10        11101     0011010  0        1100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 40.2446)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001      0011  010  0        110      00001      0011  010  0        110      00  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 44.396)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 1               00 100000  01     00 11   010  0    1100 100000   </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 56.8481)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 48.5474)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111                         0        110   0 10   011     00 11     0  10  0        11  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 52.6968)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001         010  0        110       0 100 01         010  0        110       0 100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 60.9995)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111101     0011010  0                      11101     0011010  0        1100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 65.1509)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001      0                0  0        110      00001      0011  010  0        110      00  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 69.3022)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11               100 100000  01     00 11   010  0    1100 100000   </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 81.7573)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 73.4546)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 77.604)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001         010  0        110       0 100 01         010  0        110       0 100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 94.2104)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 85.9077)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111                         0        110   0 10   011     00 11     0  10  0        11  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 90.0591)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001         010  0        110       0 100 01         010  0        110       0 100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 98.3618)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111101     0011010  0                      11101     0011010  0        1100</text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 102.5122)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001      0                0  0        110      00001      0011  010  0        110      00  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 106.6646)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11               100 100000  01     00 11   010  0    1100 100000   </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 119.1177)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">0   101     00 11010  0    1100 100    000   101     00 110   10  0    110 </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 110.8149)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">00111     00 110  10  0        110   0 10   011     00 11     0  10  0        11  </text>
+					<text transform="matrix(0.9963 0 0 1 -10.4106 114.9663)" fill="#FFFFFF" font-family="'Verdana'" font-size="3.808">001         010  0        110       0 100 01         010  0        110       0 100</text>
+				</g>
 			</g>
 		</g>
 	</g>
+	<g>
+		<path fill="#662D91" d="M55.607,117.582L9.529,90.895V37.522l46.078-26.686l46.077,26.686v53.373L55.607,117.582z M0.134,96.313
+			l55.473,32.104l55.372-32.104V32.104L55.607,0L0.134,32.104V96.313z"/>
+		<g>
+			<g opacity="0.13">
+				<g>
+					<path d="M11.928,38.926l43.679-25.281l43.578,25.281v50.565l-43.578,25.281L11.928,89.492V38.926z M9.629,37.522v53.373
+						l45.978,26.687l45.977-26.687V37.623L55.607,10.936L9.629,37.522z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path fill="#92C1F4" d="M80.945,41.586c-0.2-0.903-3.299-1.505-7.098-1.505c-0.1,0-0.299,0-0.399,0
+		c-0.3-0.904-1.198-1.505-2.199-1.505c-0.399,0-0.7,0.1-1,0.201c-0.199-1.906-1.898-3.512-3.897-3.512
+		c-1.099,0-1.999,0.401-2.698,1.103c-0.7-1.705-2.299-2.91-4.198-2.91c-0.3,0-0.499,0-0.799,0.101
+		c-0.7-1.806-2.399-3.01-4.299-3.311c-0.2-2.006-1.899-3.712-3.898-3.712c-2.199,0-3.998,1.806-3.998,4.014c0,0.1,0,0.2,0,0.301
+		c-1.999,0.402-3.499,2.107-3.499,4.214c0,0.201,0,0.501,0.101,0.702h-0.101c-1.999,0-3.598,1.505-3.698,3.512
+		c-1.1-0.301-2.499-0.401-3.898-0.401c-3.898,0-7.096,1.103-7.096,2.408c0,0.201,0.1,0.301,0.2,0.502
+		c-3.099,0.201-4.998,0.702-5.498,1.003c-5.498,2.81,20.489,2.106,25.188,1.706c4.698-0.401,21.289-0.401,25.388-0.301
+		c3.997,0.1,16.791,0.401,15.291-1.505C87.941,41.987,83.743,41.887,80.945,41.586z"/>
+	<g>
+		<polygon fill="#FCF295" points="54.157,44.194 45.661,39.68 54.157,35.265 62.653,39.68 		"/>
+		<g>
+			<polygon fill="#FCEE21" points="54.157,76.8 54.157,44.194 45.762,39.78 45.762,72.385 			"/>
+			<polygon fill="#B7A611" points="54.157,76.8 54.157,44.194 62.553,39.78 62.553,72.385 			"/>
+		</g>
+		<polygon fill="#FCF295" points="43.063,59.042 34.567,54.628 43.063,50.113 51.459,54.628 		"/>
+		<g>
+			<polygon fill="#FCEE21" points="43.063,82.619 43.063,59.042 34.567,54.628 34.567,78.205 			"/>
+			<polygon fill="#B7A611" points="43.063,82.619 43.063,59.042 51.459,54.628 51.459,78.205 			"/>
+		</g>
+		<polygon fill="#FCF295" points="31.968,76.7 23.572,72.185 31.968,67.771 40.464,72.185 		"/>
+		<g>
+			<polygon fill="#FCEE21" points="31.968,88.438 31.968,76.7 23.572,72.286 23.572,84.024 			"/>
+			<polygon fill="#B7A611" points="31.968,88.438 31.968,76.7 40.464,72.286 40.464,84.024 			"/>
+		</g>
+		<polygon fill="#8CC63F" points="66.151,55.531 57.656,51.016 66.151,46.602 74.547,51.016 		"/>
+		<g>
+			<polygon fill="#39B54A" points="66.151,82.819 66.151,55.531 57.656,51.016 57.656,78.405 			"/>
+			<polygon fill="#009245" points="66.151,82.819 66.151,55.531 74.547,51.016 74.547,78.405 			"/>
+		</g>
+		<polygon fill="#8CC63F" points="54.957,70.279 46.561,65.764 54.957,61.35 63.453,65.764 		"/>
+		<g>
+			<polygon fill="#39B54A" points="54.957,88.638 54.957,70.279 46.561,65.865 46.561,84.224 			"/>
+			<polygon fill="#009245" points="54.957,88.638 54.957,70.279 63.453,65.865 63.453,84.224 			"/>
+		</g>
+		<polygon fill="#8CC63F" points="43.962,82.719 35.466,78.205 43.962,73.791 52.458,78.205 		"/>
+		<g>
+			<polygon fill="#39B54A" points="43.962,94.458 43.962,82.719 35.566,78.205 35.566,90.043 			"/>
+			<polygon fill="#009245" points="43.962,94.458 43.962,82.719 52.358,78.205 52.358,90.043 			"/>
+		</g>
+		<polygon fill="#78D3F4" points="78.045,66.065 69.65,61.651 78.045,57.136 86.541,61.651 		"/>
+		<g>
+			<polygon fill="#29ABE2" points="78.045,88.838 78.045,66.065 69.65,61.651 69.65,84.325 			"/>
+			<polygon fill="#0071BC" points="78.045,88.838 78.045,66.065 86.541,61.651 86.541,84.325 			"/>
+		</g>
+		<polygon fill="#78D3F4" points="66.951,80.01 58.554,75.496 66.951,71.082 75.446,75.496 		"/>
+		<g>
+			<polygon fill="#29ABE2" points="66.951,94.659 66.951,80.01 58.554,75.596 58.554,90.244 			"/>
+			<polygon fill="#0071BC" points="66.951,94.659 66.951,80.01 75.347,75.596 75.347,90.244 			"/>
+		</g>
+		<polygon fill="#78D3F4" points="55.956,88.638 47.46,84.224 55.956,79.708 64.352,84.224 		"/>
+		<g>
+			<polygon fill="#29ABE2" points="55.956,100.477 55.956,88.638 47.46,84.224 47.46,96.062 			"/>
+			<polygon fill="#0071BC" points="55.956,100.477 55.956,88.638 64.352,84.224 64.352,96.062 			"/>
+		</g>
+	</g>
 </g>
-<path fill="#92C1F4" d="M588.007,446.958c-1.315-5.919-21.705-9.866-46.698-9.866c-0.658,0-1.974,0-2.631,0
-	c-1.974-5.919-7.893-9.865-14.471-9.865c-2.631,0-4.604,0.657-6.577,1.315c-1.315-12.497-12.497-23.021-25.651-23.021
-	c-7.234,0-13.154,2.631-17.758,7.234c-4.604-11.181-15.128-19.074-27.625-19.074c-1.973,0-3.289,0-5.262,0.658
-	c-4.604-11.839-15.785-19.731-28.282-21.705c-1.315-13.154-12.497-24.336-25.651-24.336c-14.47,0-26.31,11.839-26.31,26.31
-	c0,0.657,0,1.315,0,1.973c-13.154,2.631-23.02,13.813-23.02,27.625c0,1.315,0,3.288,0.657,4.604h-0.657
-	c-13.155,0-23.679,9.866-24.336,23.021c-7.235-1.973-16.443-2.631-25.651-2.631c-25.651,0-46.698,7.235-46.698,15.786
-	c0,1.315,0.657,1.973,1.315,3.288c-20.39,1.315-32.887,4.604-36.176,6.577c-36.175,18.417,134.834,13.813,165.747,11.182
-	s140.096-2.631,167.063-1.974c26.31,0.658,110.498,2.631,100.632-9.865C634.048,449.589,606.423,448.931,588.007,446.958z"/>
-<g>
-	<polygon fill="#FCF295" points="411.737,464.058 355.829,434.461 411.737,405.521 467.643,434.461 	"/>
-	<g>
-		<polygon fill="#FCEE21" points="411.737,677.82 411.737,464.058 356.488,435.119 356.488,648.88 		"/>
-		<polygon fill="#B7A611" points="411.737,677.82 411.737,464.058 466.986,435.119 466.986,648.88 		"/>
-	</g>
-	<polygon fill="#FCF295" points="338.729,561.402 282.823,532.463 338.729,502.865 393.978,532.463 	"/>
-	<g>
-		<polygon fill="#FCEE21" points="338.729,715.968 338.729,561.402 282.823,532.463 282.823,687.028 		"/>
-		<polygon fill="#B7A611" points="338.729,715.968 338.729,561.402 393.978,532.463 393.978,687.028 		"/>
-	</g>
-	<polygon fill="#FCF295" points="265.721,677.162 210.472,647.564 265.721,618.625 321.628,647.564 	"/>
-	<g>
-		<polygon fill="#FCEE21" points="265.721,754.116 265.721,677.162 210.472,648.222 210.472,725.177 		"/>
-		<polygon fill="#B7A611" points="265.721,754.116 265.721,677.162 321.628,648.222 321.628,725.177 		"/>
-	</g>
-	<polygon fill="#8CC63F" points="490.663,538.382 434.757,508.784 490.663,479.844 545.912,508.784 	"/>
-	<g>
-		<polygon fill="#39B54A" points="490.663,717.283 490.663,538.382 434.757,508.784 434.757,688.344 		"/>
-		<polygon fill="#009245" points="490.663,717.283 490.663,538.382 545.912,508.784 545.912,688.344 		"/>
-	</g>
-	<polygon fill="#8CC63F" points="416.998,635.067 361.749,605.469 416.998,576.53 472.905,605.469 	"/>
-	<g>
-		<polygon fill="#39B54A" points="416.998,755.431 416.998,635.067 361.749,606.128 361.749,726.492 		"/>
-		<polygon fill="#009245" points="416.998,755.431 416.998,635.067 472.905,606.128 472.905,726.492 		"/>
-	</g>
-	<polygon fill="#8CC63F" points="344.649,716.626 288.741,687.028 344.649,658.088 400.555,687.028 	"/>
-	<g>
-		<polygon fill="#39B54A" points="344.649,793.58 344.649,716.626 289.4,687.028 289.4,764.639 		"/>
-		<polygon fill="#009245" points="344.649,793.58 344.649,716.626 399.898,687.028 399.898,764.639 		"/>
-	</g>
-	<polygon fill="#78D3F4" points="568.933,607.443 513.684,578.503 568.933,548.905 624.84,578.503 	"/>
-	<g>
-		<polygon fill="#29ABE2" points="568.933,756.747 568.933,607.443 513.684,578.503 513.684,727.149 		"/>
-		<polygon fill="#0071BC" points="568.933,756.747 568.933,607.443 624.84,578.503 624.84,727.149 		"/>
-	</g>
-	<polygon fill="#78D3F4" points="495.925,698.867 440.676,669.269 495.925,640.33 551.832,669.269 	"/>
-	<g>
-		<polygon fill="#29ABE2" points="495.925,794.895 495.925,698.867 440.676,669.927 440.676,765.955 		"/>
-		<polygon fill="#0071BC" points="495.925,794.895 495.925,698.867 551.174,669.927 551.174,765.955 		"/>
-	</g>
-	<polygon fill="#78D3F4" points="423.575,755.431 367.669,726.492 423.575,696.894 478.824,726.492 	"/>
-	<g>
-		<polygon fill="#29ABE2" points="423.575,833.043 423.575,755.431 367.669,726.492 367.669,804.103 		"/>
-		<polygon fill="#0071BC" points="423.575,833.043 423.575,755.431 478.824,726.492 478.824,804.103 		"/>
-	</g>
+<g id="Layer_3">
+</g>
+<g id="Layer_2">
 </g>
 </svg>
