@@ -479,7 +479,7 @@
   numClonesAllowed: 300
   tags: ember, javascript
   image: ember_master.svg
-- name: django_dev
+- name: django_pony
   description: Developers who use Django are a great asset to the modern web, and
     so is the Django project itself!  Gitcoin itself is built with Django, and we
     are very happy to host this badge as part of the Kudos genesis batch!
@@ -487,7 +487,7 @@
   priceFinney: 3
   numClonesAllowed: 342
   tags: python, django, web, programmer
-  image: django_dev.svg
+  image: django_pony.svg
 - name: bee_of_all_trades
   description: Are you a cross-pollinator?  Do you deliver value in a lot of places
     at once?  This 'Bee of all trades' badge is for you!
