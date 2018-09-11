@@ -102,54 +102,34 @@
 <g id="Layer_9">
 </g>
 <g id="Layer_4">
+	<ellipse fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" cx="35.068" cy="68.31" rx="23.244" ry="18.684"/>
+	<polyline fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" points="18.307,79.189 17.895,91.25 33.226,85.178 	"/>
 	<g>
-		<ellipse fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" cx="35.068" cy="68.31" rx="23.244" ry="18.684"/>
-		<polyline fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" points="18.307,79.189 17.895,91.25 33.226,85.178 		"/>
-		<g>
-			<rect x="21.591" y="57.45" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="58.852" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="60.253" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="61.654" fill="#A3A3A3" width="27.366" height="0.671"/>
-			<rect x="21.591" y="63.054" fill="#A3A3A3" width="27.366" height="0.671"/>
-			<rect x="21.591" y="64.457" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="65.857" fill="#A3A3A3" width="27.366" height="0.671"/>
-			<rect x="21.591" y="67.259" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="68.661" fill="#A3A3A3" width="27.366" height="0.67"/>
-			<rect x="21.591" y="70.063" fill="#A3A3A3" width="27.366" height="0.669"/>
-			<rect x="21.591" y="71.463" fill="#A3A3A3" width="27.366" height="0.671"/>
-			<rect x="21.591" y="72.866" fill="#A3A3A3" width="27.366" height="0.667"/>
-			<rect x="21.591" y="74.266" fill="#A3A3A3" width="27.366" height="0.668"/>
-			<rect x="21.811" y="75.639" fill="#A3A3A3" width="27.365" height="0.671"/>
-			<rect x="21.591" y="77.068" fill="#A3A3A3" width="27.366" height="0.668"/>
-			<rect x="21.591" y="78.469" fill="#A3A3A3" width="27.366" height="0.671"/>
-		</g>
-		<polyline fill="#B9EA4E" points="42.015,94.056 44.331,98.719 52.013,90.42 44.888,95.698 		"/>
+		<rect x="22.183" y="59.077" fill="#A3A3A3" width="25.861" height="0.633"/>
+		<rect x="22.183" y="61.724" fill="#A3A3A3" width="25.861" height="0.634"/>
+		<rect x="22.183" y="64.373" fill="#A3A3A3" width="25.861" height="0.634"/>
+		<rect x="22.183" y="67.021" fill="#A3A3A3" width="25.861" height="0.634"/>
+		<rect x="22.183" y="69.671" fill="#A3A3A3" width="25.861" height="0.632"/>
+		<rect x="22.183" y="72.32" fill="#A3A3A3" width="25.861" height="0.63"/>
+		<rect x="22.39" y="74.941" fill="#A3A3A3" width="25.86" height="0.634"/>
+		<rect x="22.183" y="77.615" fill="#A3A3A3" width="25.861" height="0.634"/>
 	</g>
-	<g>
-		<ellipse fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" cx="77.852" cy="49.752" rx="22.474" ry="18.065"/>
-		<polyline fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" points="94.056,60.271 94.457,71.934 79.632,66.063 		"/>
-		<g>
-			<rect x="64.423" y="39.253" fill="#A3A3A3" width="26.459" height="0.647"/>
-			<rect x="64.423" y="40.608" fill="#A3A3A3" width="26.459" height="0.647"/>
-			<rect x="64.423" y="41.962" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="43.317" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="44.672" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="46.026" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="47.381" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="48.736" fill="#A3A3A3" width="26.459" height="0.648"/>
-			<rect x="64.423" y="50.091" fill="#A3A3A3" width="26.459" height="0.647"/>
-			<rect x="64.423" y="51.447" fill="#A3A3A3" width="26.459" height="0.646"/>
-			<rect x="64.423" y="52.8" fill="#A3A3A3" width="26.459" height="0.65"/>
-			<rect x="64.423" y="54.157" fill="#A3A3A3" width="26.459" height="0.646"/>
-			<rect x="64.423" y="55.511" fill="#A3A3A3" width="26.459" height="0.646"/>
-			<rect x="64.211" y="56.839" fill="#A3A3A3" width="26.458" height="0.648"/>
-			<rect x="64.423" y="58.221" fill="#A3A3A3" width="26.459" height="0.646"/>
-			<rect x="64.423" y="59.575" fill="#A3A3A3" width="26.459" height="0.649"/>
-		</g>
-	</g>
+	<polyline fill="#B9EA4E" points="42.015,94.056 44.331,98.719 52.013,90.42 44.888,95.698 	"/>
+	<ellipse fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" cx="77.852" cy="49.752" rx="22.474" ry="18.065"/>
+	<polyline fill="#FFFFFF" stroke="#231D2D" stroke-miterlimit="10" points="94.056,60.271 94.457,71.934 79.632,66.063 	"/>
 	<polyline fill="#B9EA4E" points="66.681,94.056 68.998,98.72 76.68,90.421 69.554,95.699 	"/>
 	<polyline fill="#B9EA4E" points="66.847,73.389 69.164,78.053 76.846,69.754 69.72,75.032 	"/>
 	<polyline fill="#B9EA4E" points="91.514,73.056 93.831,77.72 101.513,69.421 94.387,74.699 	"/>
+	<g>
+		<rect x="64.807" y="40.806" fill="#A3A3A3" width="25.861" height="0.633"/>
+		<rect x="64.807" y="43.454" fill="#A3A3A3" width="25.861" height="0.634"/>
+		<rect x="64.807" y="46.102" fill="#A3A3A3" width="25.861" height="0.633"/>
+		<rect x="64.807" y="48.75" fill="#A3A3A3" width="25.861" height="0.633"/>
+		<rect x="64.807" y="51.4" fill="#A3A3A3" width="25.861" height="0.632"/>
+		<rect x="64.807" y="54.049" fill="#A3A3A3" width="25.861" height="0.63"/>
+		<rect x="65.015" y="56.67" fill="#A3A3A3" width="25.86" height="0.634"/>
+		<rect x="64.807" y="59.344" fill="#A3A3A3" width="25.861" height="0.634"/>
+	</g>
 </g>
 <g id="border">
 	<g id="Layer_2_6_">
