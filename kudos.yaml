@@ -605,13 +605,6 @@
   numClonesAllowed: 100
   tags: gitcoin, mission, grow open source
   image: gitcoin_sustainer.svg
-- name: grow_open_source
-  description: We are the source to Open Source. We know the origins and stories behind the trees around us – where they came from and where they are going.
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 100
-  tags: gitcoin, mission, grow open source
-  image: growopen_source.svg
 - name: craftsman
   description: Know a crafts-woman or crafts-man?  A craftsperson kudos is a great way to celebrate the tools we use and the people that use them!
   rarity: 20
