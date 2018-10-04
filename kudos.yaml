@@ -236,7 +236,7 @@
   tags: soft skills, programmer, technical, handyman
   image: handyman.svg
 - name: handy_woman
-  description: Its great to have a handy woman around your house when your sink, plumbing,
+  description: Its great to have a someone handy around your house when your sink, plumbing,
     electricity, breaks.  Owners of this badge are digital handymen and handywomen.  They
     fix stuff, and do it with a smile on their face!
   rarity: 30
@@ -591,8 +591,8 @@
   numClonesAllowed: 100
   tags: soft skills, path, finder
   image: path_finder.svg
-- name: climb_to_sky
-  description: A ladder climber propels upward into dreams and helps to paint a sharable vision. We can do it all from start to finish - to build new experiences for the open source community around us. 
+- name: to_the_moon
+  description: This kudos is for users who are taking the ecosystem to the moon!
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
@@ -738,18 +738,18 @@
     with our words and stories. The world is our experiment lab, and we are players in it.
   rarity: 20
   priceFinney: 1
-  numClonesAllowed: 100
+  numClonesAllowed: 2
   tags: genius, albert einstein, smart
   image: a_genius.svg
 - name: vitalik_genesis
-  description: A kudos that celebrates Vitalik's leadership in the Ethereum world.
+  description: A kudos that celebrates Vitalik's leadership in the Ethereum world.  One day, Gitcoin founder @owocki hopes to work up the courage to give this Kudos to Vitalik.
   rarity: 90
   priceFinney: 1
   numClonesAllowed: 100
   tags: vitalik, just for fun
   image: vitalik_genesis.svg
 - name: eth_hacker
-  description: You spin up DAPPS on the weekend, just for fun.
+  description: You turn bits into DAPPS for fun!
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 100
