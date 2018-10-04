@@ -1,7 +1,5 @@
 import os
 import re
-import json
-import sys
 
 import oyaml as yaml
 
