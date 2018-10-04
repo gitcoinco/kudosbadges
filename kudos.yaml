@@ -748,13 +748,6 @@
   numClonesAllowed: 100
   tags: vitalik, just for fun
   image: vitalik_genesis.svg
-- name: eth_hacker
-  description: You turn bits into DAPPS for fun!
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 100
-  tags: ethereum, hacker, hackathon, eth
-  image: eth_hacker2.svg
 - name: sunburst
   description: This person bring Gitcoin sunshine to OSS projects. We energize the project with what we do. 
   rarity: 20
@@ -770,7 +763,7 @@
   tags: ipsum
   image: ethereum_constellation.svg
 - name: tools
-  description: lorum
+  description: Tools to help grow OSS.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
@@ -784,7 +777,7 @@
   tags: ipsum
   image: path.svg
 - name: hard_worker
-  description: lorum
+  description: Hard workers are diligent and vigilent at doing the best they can.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
@@ -833,19 +826,12 @@
   tags: ipsum
   image: west.svg
 - name: praying
-  description: lorum
+  description: 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: praying.svg
-- name: vitalik
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: vitalik.svg
 - name: coding_ducky
   description: A ducky that helps solve your problems!
   rarity: 20
@@ -860,13 +846,6 @@
   numClonesAllowed: 10
   tags: ipsum
   image: django_cowboy.svg
-- name: blockchain_world
-  description: 
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: blockchain_world.svg
 - name: frontend_alchemist
   description: A frontend alchemist mixes things up to create a surprise.
   rarity: 20
@@ -889,95 +868,69 @@
   tags: ipsum
   image: backend_star.svg
 - name: bug_squasher_new
-  description: lorum
+  description: A bug squasher makes bugs dissapear like magic.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: bug_squasher_new.svg
 - name: growoss_crystalball
-  description: lorum
+  description: A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Grow Oss Crystal Ball holders are visionaries that transform what’s happening into an understandable future. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: growoss_crystalball.svg
 - name: birds
-  description: lorum
+  description: Open source birds are free to work on what they want, when they want. Making impact where they feel necessary.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: birds.svg
 - name: robot_medium
-  description: lorum
+  description: A robot that is very direct in understanding the needs of the problem.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: robot_medium.svg
 - name: robot_small
-  description: lorum
+  description: A small robots is sometimes just what you need to solve big problems.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: robot_small.svg
-- name: gitcoin_rasta
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: gitcoin_rasta.svg
 - name: out_of_this_world_programmer
-  description: lorum
+  description: A programmer that moves the ecosystem forward and out of this world.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: out_of_this_world_programmer.svg
-- name: fast_response
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: fast_response.svg
 - name: good_communicator
-  description: lorum
+  description: Holders of this badge are great communicators that help to clarify any situation.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: good_communicator.svg
 - name: a_genius
-  description: lorum
+  description: A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: a_genius.svg
 - name: gitcoin_tree
-  description: lorum
+  description: A tree that sustains open source.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: gitcoin_tree.svg
-- name: eth_hacker2
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: eth_hacker2.svg
-- name: corporate_ladder
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: corporate_ladder.svg
+
+
 
 
