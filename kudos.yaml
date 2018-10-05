@@ -753,35 +753,35 @@
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: sunshine, oss, energy
   image: sunburst.svg
 - name: ethereum_constellation
   description: This badge is for anyone who creates simplicity from complexity.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: ethereum, simple
   image: ethereum_constellation.svg
 - name: tools
   description: Tools to help grow OSS.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: tools, oss
   image: tools.svg
 - name: path
   description: This person takes the path less traveled to achieve great things.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: path, achiever
   image: path.svg
 - name: hard_worker
   description: Hard workers are diligent and vigilent at doing the best they can.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: hard worker, achievement, buidl
   image: hard_worker.svg
 - name: g1
   description: lorum
@@ -795,140 +795,140 @@
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: power, oss, development
   image: powertools.svg
 - name: link_legend_of_zelda
   description: A leader of all things united.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: leader, future, unite
   image: link_legend_of_zelda.svg
 - name: blockchain_star
   description: A shining star that provides the light of blockchain.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: star, rise
   image: blockchain_star.svg
 - name: climb_the_ladder
   description: A ladder climbber takes open source to new heights.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: success, ladder, achievement
   image: climb_the_ladder.svg
 - name: west
   description: 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: lorem ipsum
   image: west.svg
 - name: praying
-  description: 
+  description: Need ideas for this one!
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: pray
   image: praying.svg
 - name: coding_ducky
   description: A ducky that helps solve your problems!
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: duck, coding, problem solver
   image: coding_ducky.svg
 - name: django_cowboy
   description: Faster than fast on django.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: django, fast, developer
   image: django_cowboy.svg
 - name: frontend_alchemist
   description: A frontend alchemist mixes things up to create a surprise.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: frontend,creative
   image: frontend_alchemist.svg
 - name: dont_just_hodl_buidl
   description: A builder to create change.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: builder, change, buidl
   image: dont_just_hodl_buidl.svg
 - name: backend_star
   description: A shining star of all things hidden.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: star, backend
   image: backend_star.svg
 - name: bug_squasher_new
   description: A bug squasher makes bugs dissapear like magic.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: bugs, clean code, magic
   image: bug_squasher_new.svg
 - name: growoss_crystalball
   description: A crystal ball is just a way to predict the future, but hidden inside is a compelling story. Grow Oss Crystal Ball holders are visionaries that transform what’s happening into an understandable future. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: oss, prediction, future, wise
   image: growoss_crystalball.svg
 - name: birds
   description: Open source birds are free to work on what they want, when they want. Making impact where they feel necessary.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: birds, freedom, impact, oss
   image: birds.svg
 - name: robot_medium
   description: A robot that is very direct in understanding the needs of the problem.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: robot, problem solver, machine
   image: robot_medium.svg
 - name: robot_small
   description: A small robots is sometimes just what you need to solve big problems.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: robot, problem solver, machine
   image: robot_small.svg
 - name: out_of_this_world_programmer
   description: A programmer that moves the ecosystem forward and out of this world.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: programmer, development
   image: out_of_this_world_programmer.svg
 - name: good_communicator
   description: Holders of this badge are great communicators that help to clarify any situation.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: communication, clear
   image: good_communicator.svg
 - name: a_genius
   description: A Genius bring ideas to life. We activate creative thinking and push problem solving with our words and stories. The world is our experiment lab, and we are players in it.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: genius, ideas, creative
   image: a_genius.svg
 - name: gitcoin_tree
   description: A tree that sustains open source.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: oss, grow open source
   image: gitcoin_tree.svg
 
 
