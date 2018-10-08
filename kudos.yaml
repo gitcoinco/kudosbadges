@@ -819,7 +819,7 @@
   tags: success, ladder, achievement
   image: climb_the_ladder.svg
 - name: west
-  description: 
+  description: You are a pioneer of Gitcoin open source!
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
