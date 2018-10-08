@@ -1042,6 +1042,48 @@
   numClonesAllowed: 10
   tags: ipsum
   image: corporate_ladder.svg
+- name: backend_architect
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/backend_architect.svg
+- name: bug_eliminator
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/bug_eliminator.svg
+- name: bug_finder
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/bug_finder.svg
+- name: lightning_fast
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/lightning_fast.svg
+- name: oddjobs
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/oddjobs.svg
+- name: trusted_contributor
+  description: lorum
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 10
+  tags: ipsum
+  image: cellarius/trusted_contributor.svg
 
 
 
