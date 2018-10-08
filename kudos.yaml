@@ -930,96 +930,91 @@
   numClonesAllowed: 10
   tags: oss, grow open source
   image: gitcoin_tree.svg
-- name: games_first
-  description: lorum
+- name: status_hackathon_2018_games_track_first_prize
+  description: For the winner of the Status Hackathon Games Track
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: games_first.svg
-- name: marketplaces_runner_up
-  description: lorum
+- name: status_hackathon_2018_marketplace_track_second_prize
+  description: For the runner up of the Status Hackathon Marketplace Track
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: marketplaces_runner_up.svg
-- name: vitalik
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: vitalik.svg
 - name: travel_runner_up
   description: lorum
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: travel_runner_up.svg
 - name: blockchain_world
   description: lorum
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: blockchain_world.svg
-- name: travel_first
-  description: lorum
+- name: status_hackathon_2018_travel_track_first_prize
+  description: For the winner of the Status Hackathon Travel Track
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: travel_first.svg
-- name: games_runner_up
+- name: status_hackathon_2018_marketplace_games_second_prize
+  description: For the runner up of the Status Hackathon Game Track
   description: lorum
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: games_runner_up.svg
-- name: philosophers
-  description: lorum
+- name: philosophers_stone
+  description: For whomever makes the greatest contribution to the Status Hackathon Philospher Circle
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: philosophers.svg
-- name: social_first
-  description: lorum
+- name: status_hackathon_2018_travel_social_first_prize
+  description: For the winner of the Status Hackathon Social Track
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: social_first.svg
-- name: market_first
+- name: status_hackathon_2018_travel_marketplace_first_prize
+  description: For the winner of the Marketplace Hackathon Social Track
   description: lorum
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: market_first.svg
-- name: social_runner_up
-  description: lorum
+- name: status_hackathon_2018_marketplace_social_second_prize
+  description: For the runner up of the Status Hackathon Social Track
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: social_runner_up.svg
-- name: gitcoin_rasta
-  description: lorum
+- name: gitcoin_love
+  description: This kudos is for showing appreciation for someone who did some work that you love
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: gitcoin, results
   image: gitcoin_rasta.svg
-- name: wildcard
-  description: lorum
+- name: status_hackathon_2018_wildcard
+  description: Winner of the wildcard prize at the Status Hackahton 2018
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: status hackathon
   image: wildcard.svg
 - name: fast_response
   description: lorum
@@ -1028,20 +1023,13 @@
   numClonesAllowed: 10
   tags: ipsum
   image: fast_response.svg
-- name: eth_hacker2
+- name: eth_hacker
   description: lorum
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
   tags: ipsum
   image: eth_hacker2.svg
-- name: corporate_ladder
-  description: lorum
-  rarity: 20
-  priceFinney: 1
-  numClonesAllowed: 10
-  tags: ipsum
-  image: corporate_ladder.svg
 - name: backend_architect
   description: lorum
   rarity: 20
