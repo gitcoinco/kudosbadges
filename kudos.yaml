@@ -1042,14 +1042,14 @@
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: bug, squasher, eliminator, problem solve
+  tags: bug, squasher, eliminator, problem solver
   image: cellarius/bug_eliminator.svg
 - name: bug_finder
   description: These holders are insightful, and easily spot and solve the very hidden problems unseen to the naked eye.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: bug, problem solve, troubleshoot
+  tags: bug, problem solver, troubleshoot
   image: cellarius/bug_finder.svg
 - name: lightning_fast
   description: The holder of this badge needs no introduction. Work is completed quickly as is a flash of lightning. 
