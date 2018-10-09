@@ -1031,46 +1031,46 @@
   tags: ipsum
   image: eth_hacker2.svg
 - name: backend_architect
-  description: lorum
+  description: A backend architect is not only the keeper of the ins and outs but also the holder of information and the intricacies of a system.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: architect, plan, backend
   image: cellarius/backend_architect.svg
 - name: bug_eliminator
-  description: lorum
+  description: A bug eliminator skill is core to an efficient system or service. They effortlessly remove and resolve any bug with speed.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: bug, squasher, eliminator, problem solve
   image: cellarius/bug_eliminator.svg
 - name: bug_finder
-  description: lorum
+  description: These holders are insightful, and easily spot and solve the very hidden problems unseen to the naked eye.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: bug, problem solve, troubleshoot
   image: cellarius/bug_finder.svg
 - name: lightning_fast
-  description: lorum
+  description: The holder of this badge needs no introduction. Work is completed quickly as is a flash of lightning. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: fast, quick, turnaround, speed
   image: cellarius/lightning_fast.svg
 - name: oddjobs
-  description: lorum
+  description: Holders of these badges are highly skilled at many things. Their talents are unlimited and sometimes at odds on the spectrum of skills.
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: skilled, multi-task, well-rounded
   image: cellarius/oddjobs.svg
 - name: trusted_contributor
-  description: lorum
+  description: A trusted contributor checks all the boxes of being not only an expert in their domain but reliable and dependable. They thrive on being called upon and fulfilling any tasked mission. 
   rarity: 20
   priceFinney: 1
   numClonesAllowed: 10
-  tags: ipsum
+  tags: trusted, developer, contributor, reliable
   image: cellarius/trusted_contributor.svg
 
 
