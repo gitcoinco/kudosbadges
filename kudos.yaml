@@ -1072,3 +1072,54 @@
   numClonesAllowed: 10
   tags: trusted, developer, contributor, reliable
   image: cellarius/trusted_contributor.svg
+- name: burst_of_energy
+  description: Limited Edition Cellarius Kudos!  This kudos is for the contributors to your repo that are a burst of energy!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Burst.svg
+- name: impossible_object
+  description: Limited Edition Cellarius Kudos!  This kudos is just for fun.  If anyone in your repo is impossibly great contributor, send them this kudos!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Circle.svg
+- name: diamond
+  description: Limited Edition Cellarius Kudos!  This kudos is for any contributor who is a diamond!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Diamond.svg
+- name: heart
+  description: Limited Edition Cellarius Kudos!  This one is for contributors who show a lot of heart!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/heart.svg
+- name: infinite_energy
+  description: Limited Edition Cellarius Kudos!  This kudos is for contributors who are infinite sources of energy to your project!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Infinite.svg
+- name: creative
+  description: Limited Edition Cellarius Kudos!  This kudos is for the squiggles, not the lines.  If your contributor is very creative, send them this kudos!
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Spaghetti.svg
+- name: foundation
+  description: Limited Edition Cellarius Kudos!  This kudos is for those who lay a solid foundation.
+  rarity: 20
+  priceFinney: 10
+  numClonesAllowed: 10
+  tags: cellarius
+  image: cellarius/Triangle.svg
+
+
