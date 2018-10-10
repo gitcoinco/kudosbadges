@@ -1180,7 +1180,7 @@
   description: Limited Edition Cellarius Kudos! A backend architect is not only the
     keeper of the ins and outs but also the holder of information and the intricacies
     of a system.
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 25
   tags:
   - architect
@@ -1191,7 +1191,7 @@
   description: Limited Edition Cellarius Kudos! A bug eliminator skill is core to
     an efficient system or service. They effortlessly remove and resolve any bug with
     speed.
-  priceFinney: 10
+  priceFinney: 150
   numClonesAllowed: 25
   tags:
   - bug
@@ -1202,7 +1202,7 @@
 - name: bug_finder
   description: Limited Edition Cellarius Kudos! These holders are insightful, and
     easily spot and solve the very hidden problems unseen to the naked eye.
-  priceFinney: 10
+  priceFinney: 150
   numClonesAllowed: 25
   tags:
   - bug
@@ -1212,7 +1212,7 @@
 - name: lightning_fast
   description: Limited Edition Cellarius Kudos! The holder of this badge needs no
     introduction. Work is completed quickly as is a flash of lightning.
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 25
   tags:
   - fast
@@ -1224,7 +1224,7 @@
   description: Limited Edition Cellarius Kudos! Holders of these badges are highly
     skilled at many things. Their talents are unlimited and sometimes at odds on the
     spectrum of skills.
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 25
   tags:
   - skilled
@@ -1235,7 +1235,7 @@
   description: Limited Edition Cellarius Kudos!A trusted contributor checks all the
     boxes of being not only an expert in their domain but reliable and dependable.
     They thrive on being called upon and fulfilling any tasked mission.
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 35
   tags:
   - trusted
@@ -1246,7 +1246,7 @@
 - name: burst_of_energy
   description: Limited Edition Cellarius Kudos!  This kudos is for the contributors
     to your repo that are a burst of energy!
-  priceFinney: 10
+  priceFinney: 150
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1254,7 +1254,7 @@
 - name: impossible_object
   description: Limited Edition Cellarius Kudos!  This kudos is just for fun.  If anyone
     in your repo is impossibly great contributor, send them this kudos!
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1262,7 +1262,7 @@
 - name: diamond
   description: Limited Edition Cellarius Kudos!  This kudos is for any contributor
     who is a diamond!
-  priceFinney: 10
+  priceFinney: 200
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1270,7 +1270,7 @@
 - name: heart
   description: Limited Edition Cellarius Kudos!  This one is for contributors who
     show a lot of heart!
-  priceFinney: 10
+  priceFinney: 200
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1278,7 +1278,7 @@
 - name: infinite_energy
   description: Limited Edition Cellarius Kudos!  This kudos is for contributors who
     are infinite sources of energy to your project!
-  priceFinney: 10
+  priceFinney: 150
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1286,7 +1286,7 @@
 - name: creative
   description: Limited Edition Cellarius Kudos!  This kudos is for the squiggles,
     not the lines.  If your contributor is very creative, send them this kudos!
-  priceFinney: 10
+  priceFinney: 150
   numClonesAllowed: 35
   tags:
   - cellarius
@@ -1294,7 +1294,7 @@
 - name: foundation
   description: Limited Edition Cellarius Kudos!  This kudos is for those who lay a
     solid foundation.
-  priceFinney: 10
+  priceFinney: 100
   numClonesAllowed: 35
   tags:
   - cellarius
