@@ -1299,3 +1299,67 @@
   tags:
   - cellarius
   image: cellarius/Triangle.svg
+- name: Best use of Fission -- ETHMagicians Prague 2018
+  description: This kudos is for the Best use of Fission -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: fission_color.svg
+- name: Best use of Universal Logins -- ETHMagicians Prague 2018
+  description: This kudos is for the Best use of Universal Logins -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: logins_color.svg
+- name: Awesome Participant -- ETHMagicians Prague 2018
+  description: This kudos is for the Awesome Participant -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: participant_color.svg
+- name: Scribe -- ETHMagicians Prague 2018
+  description: This kudos is for the Scribe kudos award -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: scirbe_color.svg
+- name: Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
+  description: This kudos is for the Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: subscription_color.svg
+- name: Volunteer Organizer Award -- ETHMagicians Prague 2018
+  description: This kudos is for the Volunteer Organizer Award -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: volunteer_color.svg
+- name: Best Use Of Wallet Standards -- ETHMagicians Prague 2018
+  description: This kudos is for the Best Use Of Wallet Standards -- ETHMagicians Prague 2018
+  rarity: 20
+  priceFinney: 1
+  numClonesAllowed: 1
+  tags:
+  - ethmagicians
+  - prague
+  image: wallet_color.svg
+
