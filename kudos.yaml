@@ -1442,6 +1442,7 @@
   - squasher
   - eliminator
   - problem solver
+  - cellarius
   image: cellarius/bug_eliminator.svg
 - name: bug_finder
   description: Limited Edition Cellarius Kudos! These holders are insightful, and
@@ -1453,6 +1454,7 @@
   tags:
   - bug
   - problem solver
+  - cellarius
   - troubleshoot
   image: cellarius/bug_finder.svg
 - name: lightning_fast
@@ -1467,6 +1469,7 @@
   - quick
   - turnaround
   - speed
+  - cellarius
   image: cellarius/lightning_fast.svg
 - name: oddjobs
   description: Limited Edition Cellarius Kudos! Holders of these badges are highly
@@ -1477,6 +1480,7 @@
   platform: gitcoin
   numClonesAllowed: 25
   tags:
+  - cellarius
   - skilled
   - multi-task
   - well-rounded
@@ -1494,6 +1498,7 @@
   - developer
   - contributor
   - reliable
+  - cellarius
   image: cellarius/trusted_contributor.svg
 - name: burst_of_energy
   description: Limited Edition Cellarius Kudos!  This kudos is for the contributors
