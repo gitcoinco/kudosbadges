@@ -29,10 +29,10 @@
 - name: gitcoin_genesis
   description: The Gitcoin Genesis Badge is the rarest of the Gitcoin team badges.  Owners
     of this badge contributed to Gitcoin in a meaningful way in the way-back-when.
-  priceFinney: 2000
+  priceFinney: 1000
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 450
+  numClonesAllowed: 4
   tags:
   - gitcoin
   - genesis
