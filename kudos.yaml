@@ -946,10 +946,11 @@
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 20
+  numClonesAllowed: 400
   tags:
   - powertools
   - tools
+  - first_mint
   image: powertool_user.svg
 - name: party_robot
   description: Is one of your teammates just a lot of fun to be around?  Send them
