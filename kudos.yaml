@@ -1299,45 +1299,50 @@
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: games_first.svg
 - name: status_hackathon_2018_marketplace_track_second_prize
   description: For the runner up of the Status Hackathon Marketplace Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: marketplaces_runner_up.svg
 - name: status_hackathon_2018_traveltrack_second_prize
-  description: lorum
+  description: For the runner up of the Status Hackathon Travel Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: travel_runner_up.svg
 - name: status_hackathon_2018_travel_track_first_prize
   description: For the winner of the Status Hackathon Travel Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: travel_first.svg
 - name: status_hackathon_2018__games_second_prize
-  description: lorum
+  description: For the runner up of the Status Hackathon Games Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: games_runner_up.svg
 - name: philosophers_stone
   description: For whomever makes the greatest contribution to the Status Hackathon
@@ -1345,26 +1350,29 @@
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: philosophers.svg
 - name: status_hackathon_2018_travel_social_first_prize
   description: For the winner of the Status Hackathon Social Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: social_first.svg
-- name: status_hackathon_2018_social_first_prize
-  description: lorum
+- name: status_hackathon_2018_marketplace_first_prize
+  description: For the winner of the Status Hackathon Marketplace Track
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
+  - special event
   - status hackathon
   image: market_first.svg
 - name: status_hackathon_2018_social_second_prize
@@ -1372,9 +1380,10 @@
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
+  - special event
   image: social_runner_up.svg
 - name: gitcoin_love
   description: This kudos is for showing appreciation for someone who did some work
@@ -1392,7 +1401,7 @@
   priceFinney: 2
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - status hackathon
   image: wildcard.svg
@@ -1577,70 +1586,77 @@
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: fission_color.svg
 - name: Best use of Universal Logins -- ETHMagicians Prague 2018
   description: This kudos is for the Best use of Universal Logins -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: logins_color.svg
 - name: Awesome Participant -- ETHMagicians Prague 2018
   description: This kudos is for the Awesome Participant -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: participant_color.svg
 - name: Scribe -- ETHMagicians Prague 2018
   description: This kudos is for the Scribe kudos award -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: scirbe_color.svg
 - name: Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
   description: This kudos is for the Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: subscription_color.svg
 - name: Volunteer Organizer Award -- ETHMagicians Prague 2018
   description: This kudos is for the Volunteer Organizer Award -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: volunteer_color.svg
 - name: Best Use Of Wallet Standards -- ETHMagicians Prague 2018
   description: This kudos is for the Best Use Of Wallet Standards -- ETHMagicians Prague 2018
   priceFinney: 1
   artist: mladen
   platform: gitcoin
-  numClonesAllowed: 1
+  numClonesAllowed: 2
   tags:
   - ethmagicians
   - prague
+  - special event
   image: wallet_color.svg
 - name: magical_unicorn
   description: Know someone who's contributions are magical? Send them this kudos to celebrate their contributions :)
