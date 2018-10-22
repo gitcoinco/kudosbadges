@@ -1614,7 +1614,6 @@
   image: scirbe_color.svg
 - name: Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
   description: This kudos is for the Best use of 1337 Subscriptions -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1625,7 +1624,6 @@
   image: subscription_color.svg
 - name: Volunteer Organizer Award -- ETHMagicians Prague 2018
   description: This kudos is for the Volunteer Organizer Award -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1636,7 +1634,6 @@
   image: volunteer_color.svg
 - name: Best Use Of Wallet Standards -- ETHMagicians Prague 2018
   description: This kudos is for the Best Use Of Wallet Standards -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
