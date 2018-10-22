@@ -1573,7 +1573,7 @@
   image: cellarius/Triangle.svg
 - name: Best use of Fission -- ETHMagicians Prague 2018
   description: This kudos is for the Best use of Fission -- ETHMagicians Prague 2018
-  rarity: 20
+  artist: mladen
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1584,7 +1584,6 @@
   image: fission_color.svg
 - name: Best use of Universal Logins -- ETHMagicians Prague 2018
   description: This kudos is for the Best use of Universal Logins -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1595,7 +1594,6 @@
   image: logins_color.svg
 - name: Awesome Participant -- ETHMagicians Prague 2018
   description: This kudos is for the Awesome Participant -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1606,7 +1604,6 @@
   image: participant_color.svg
 - name: Scribe -- ETHMagicians Prague 2018
   description: This kudos is for the Scribe kudos award -- ETHMagicians Prague 2018
-  rarity: 20
   priceFinney: 1
   artist: mladen
   platform: gitcoin
@@ -1648,4 +1645,41 @@
   - ethmagicians
   - prague
   image: wallet_color.svg
+- name: magical_unicorn
+  description: Know someone who's contributions are magical? Send them this kudos to celebrate their contributions :)
+  priceFinney: 2
+  numClonesAllowed: 100
+  tags:
+  - unicorn
+  - magic
+  image: magic_unicorn.svg
+  platform: gitcoin
+- name: red_stapler
+  description: "Has anyone seen my stapler?"
+  priceFinney: 1
+  numClonesAllowed: 200
+  tags:
+  - stapler
+  - just for fun
+  image: red_stapler.svg
+  platform: gitcoin
+- name: shillin_like_a_villian
+  description: Know someone who so good at shillin' that they're shillin like a Villian?  This Kudos is for them!
+  priceFinney: 1
+  numClonesAllowed: 100
+  tags:
+  - shillin
+  - shill
+  - funny
+  image: shillin_like_a_villian.svg
+- name: shillville
+  description: Every Shill down in Shillville likes Open Source a lot. This Shillville badge is for the Shills in your life~!
+  priceFinney: 1
+  numClonesAllowed: 100
+  tags:
+  - shill
+  - shillville
+  - open source
+  platform: gitcoin
+  image: shillville.svg
 
