@@ -23,10 +23,9 @@ objs = []
 for name in names:
     obj = dict(name=name[0],
                description='lorum',
-               rarity=20,
                priceFinney=1,
                numClonesAllowed=10,
-               tags='ipsum',
+               tags='',
                image=name[1]
                )
     objs.append(obj)
