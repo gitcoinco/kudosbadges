@@ -25,7 +25,7 @@ for name in names:
                description='lorum',
                priceFinney=1,
                numClonesAllowed=10,
-               tags='',
+               tags=[],
                image=name[1]
                )
     objs.append(obj)
