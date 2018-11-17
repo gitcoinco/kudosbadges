@@ -16,14 +16,15 @@ Kudos is a [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token
 
 There are two options for compensation for Kudos:
 
-1. *Self Soveirgn* - When a new Kudos is created, the ETH sent during that minting process is directly sent to the illustrator who created the Kudos artwork. In some cases, Gitcoin may also take a 10% fee to help keep the lights on.
-1. *Gitcoin-Funded* - Gitcoin will pay you for each piece of artwork, and will collect the Self Soveirgn (#1) funds.  [Email us](mailto:founders@gitcoin.co) a link to your portfolio to be considered.
+1. *Self Sovereign* - When a new Kudos is created, the ETH sent during that minting process is directly sent to the illustrator who created the Kudos artwork. In some cases, Gitcoin may also take a 10% fee to help keep the lights on.
+1. *Gitcoin-Funded* - Gitcoin will pay you for each piece of artwork, and will collect the self sovereign (#1) funds.  [Email us](mailto:founders@gitcoin.co) a link to your portfolio to be considered.
 
-Right now, we expect that most ppl will want to do Gitcoin-Funded kudos art. But down the line, when people are making $100s per day off their Kudos art, we hope people will consider the Self Soveirgn route.
+Right now, we expect that most ppl will want to do Gitcoin-Funded kudos art. But down the line, when people are making $100s per day off their Kudos art, we hope people will consider the self sovereign route.
 
 
 # to create a new Kudos
 
+0. If you are creating a Gitcoin-funded kudos, [email us](mailto:founders@gitcoin.co) to negotiate a rate.  Please include your portfolio link.  If you are going the Self Sovereign route, skip this step and proceed to next step.
 1. Checkout the latest [avatar guide](https://github.com/gitcoinco/creative/tree/master/kudos_guide).
 2. Checkout the latest [ideas for kudos](https://github.com/gitcoinco/kudosbadges/projects/1).
 3. [Open up a PR against this repo](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with your proposed artwork in it.
