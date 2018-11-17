@@ -25,7 +25,7 @@ Right now, we expect that most ppl will want to do Gitcoin-Funded kudos art. But
 # to create a new Kudos
 
 0. If you are creating a Gitcoin-funded kudos, [email us](mailto:founders@gitcoin.co) to negotiate a rate.  Please include your portfolio link.  If you are going the Self Sovereign route, skip this step and proceed to next step.
-1. Checkout the latest [avatar guide](https://github.com/gitcoinco/creative/tree/master/kudos_guide).
+1. Checkout the latest [kudos design guide](https://github.com/gitcoinco/creative/tree/master/kudos_guide).
 2. Checkout the latest [ideas for kudos](https://github.com/gitcoinco/kudosbadges/projects/1).
 3. [Open up a PR against this repo](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with your proposed artwork in it.
 
