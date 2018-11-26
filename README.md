@@ -48,8 +48,9 @@ This python script reads the **images** directory and creates a kudos.yaml file.
 
 You only need to run this script if the kudos.yaml file doesn't already exist.
 
+## See also
 
-
+[Kudos721Contract Repo](https://github.com/gitcoinco/Kudos721Contract)
 
 
 # Legal
