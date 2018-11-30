@@ -1984,5 +1984,20 @@
   tags: 
     - memes
   image: your_bounty_is_bad_and_you_should_fill_bad.svg
-
-
+- name: polyglot_programmer
+  to_address: 0xF5D4020dCA6a62bB1efFcC9212AAF3c9819E30D7
+  artist: jakerockland
+  description: For those who love languages, programming or otherwise!
+  priceFinney: 4
+  numClonesAllowed: 200
+  tags: 
+    - programming
+    - lanugages
+    - c++
+    - javascript
+    - python
+    - java
+    - php
+    - go
+    - ruby
+  image: polyglot_programmer.svg
