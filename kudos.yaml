@@ -1984,5 +1984,18 @@
   tags: 
     - memes
   image: your_bounty_is_bad_and_you_should_fill_bad.svg
-
-
+- name: polyglot_programmer
+  description: For those who love languages, programming or otherwise!
+  priceFinney: 4
+  numClonesAllowed: 200
+  tags: 
+    - programming
+    - lanugages
+    - c++
+    - javascript
+    - python
+    - java
+    - php
+    - go
+    - ruby
+  image: polyglot_programmer.svg
