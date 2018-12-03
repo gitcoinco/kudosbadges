@@ -22,6 +22,7 @@ ex:
 description (varchar, up to 500 characters -- no profanity): You spin up DAPPS on the weekend, just for fun.
 priceFinney (positive integer): 1
 numClonesAllowed (positive integer): 100
+to_address (web3 address): 0x0f...ab0
 tags (string, comma delimited): ethereum, hacker, hackathon, eth
 
 
@@ -31,6 +32,7 @@ name:
 description: 
 priceFinney: 
 numClonesAllowed: 
+to_address: 
 tags: 
  - tag1
  - tag2
@@ -39,7 +41,7 @@ tags:
 <!--
 REQUIRED
 
-Please send 0.05 ETH to 0xdb282cee382244e05dd226c8809d2405b76fbdc9 and paste a link to the txid into this section.  
+Please send 0.3 ETH to 0xdb282cee382244e05dd226c8809d2405b76fbdc9 and paste a link to the txid into this section.  
 
 Sending this ETH shows us that you are serious about creating this artwork, and allows us to pay the illustrator.
 
