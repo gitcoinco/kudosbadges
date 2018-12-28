@@ -2001,3 +2001,13 @@
     - go
     - ruby
   image: polyglot_programmer.svg
+- name: panvala_holidays
+  to_address: 0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a
+  artist: PanvalaMark
+  description: Happy holidays from Panvala! Wishing you a new year full of cooperation!
+  priceFinney: 1
+  numClonesAllowed: 50
+  tags:
+    - just for fun
+    - panvala
+    - holidays
