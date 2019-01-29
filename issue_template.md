@@ -1,3 +1,9 @@
+# Timeline
+<!-- REQUIRED - When do you need your Kudos by?
+    Wait times for new Kudos art are approximately 3 weeks right now.  
+    If you *absolutely* need it sooner, tag me (@owocki) and I'll see what I can do.
+-->
+
 # Title
 <!-- REQUIRED - What is the title of your Kudos? ex:
 * HoneyBadger
