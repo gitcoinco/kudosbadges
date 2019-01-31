@@ -12,10 +12,10 @@
 
 
 # Design Inspiration
-<!--REQUIRED - Please *embed* any images that should be used as inspiration for your kudos in this file.
-ex: <img src='https://foo.com/bar/path_to_image.png'
+<!--REQUIRED - Please *link* any images that should be used as inspiration for your kudos in this file.
+ex: https://foo.com/bar/path_to_image.png
 -->
-<img src='xxxxxxxxxxxxx'>
+
 
 # Metadata
 <!--
@@ -34,6 +34,7 @@ tags (string, comma delimited): ethereum, hacker, hackathon, eth
 
 -->
 
+```
 name: 
 description: 
 priceFinney: 
@@ -42,6 +43,7 @@ to_address:
 tags: 
  - tag1
  - tag2
+```
 
 # Down Payment
 <!--
