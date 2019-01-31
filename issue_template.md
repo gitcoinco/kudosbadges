@@ -35,14 +35,14 @@ tags (string, comma delimited): ethereum, hacker, hackathon, eth
 -->
 
 ```
-name: 
-description: 
-priceFinney: 
-numClonesAllowed: 
-to_address: 
-tags: 
- - tag1
- - tag2
+- name: 
+  description: 
+  priceFinney: 
+  numClonesAllowed: 
+  to_address: 
+  tags: 
+   - tag1
+   - tag2
 ```
 
 # Down Payment
