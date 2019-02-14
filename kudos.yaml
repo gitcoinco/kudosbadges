@@ -2058,3 +2058,15 @@
     - just for fun
     - panvala
     - holidays
+- name: Grammar Programmer
+  artist: uivlis
+  description: Not only did you fix the code, you also fixed that comment that no one noticed!
+  priceFinney: 50
+  numClonesAllowed: 500
+  tags:
+    - spelling
+    - typo
+    - programmer
+    - grammar
+    - comment
+  image: grammar-programmer.svg
