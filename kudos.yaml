@@ -2058,3 +2058,14 @@
     - just for fun
     - panvala
     - holidays
+name: captain
+  to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
+  artist: mehul0698
+  description: Captain kudos.
+  priceFinney: 50
+  numClonesAllowed: 500
+  tags: 
+    - programming
+    - leader
+    - captain
+  image: captain.svg
