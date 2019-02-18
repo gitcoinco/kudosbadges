@@ -2058,3 +2058,22 @@
     - just for fun
     - panvala
     - holidays
+name: logical_spock
+  to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
+  artist: mehul0698
+  description: For those who have a very good logic in solving the problem/issue in hand.
+  priceFinney: 50
+  numClonesAllowed: 500
+  tags: 
+    - programming
+    - lanugages
+    - c++
+    - javascript
+    - python
+    - java
+    - php
+    - go
+    - ruby
+    - algorithms
+    - compliments
+  image: logical_spock.svg
