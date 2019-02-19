@@ -2098,7 +2098,11 @@
 - name: captain
   to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
   artist: mehul0698
-  description: Captain kudos.
+  description: Captain Kudos.
+  priceFinney: 50
+  numClonesAllowed: 500
+  tags: 
+    - programming
     - leader
     - captain
   image: captain.svg
@@ -2130,3 +2134,13 @@
     - algorithms
     - compliments
   image: logical_spock.svg
+  image: ally_guide_denver.svg
+- name: alchemist
+  artist: You are a master of the alchemy of code!
+  description: You are a master of the alchemy of code!
+  priceFinney: 10
+  numClonesAllowed: 50
+  tags:
+    - alchemy
+    - code
+  image: alchemist.svg
