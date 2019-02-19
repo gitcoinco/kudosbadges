@@ -2069,3 +2069,12 @@ name: captain
     - leader
     - captain
   image: captain.svg
+- name: ally_guide_denver
+  to_address: 0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a
+  artist: PanvalaMark
+  description: For loyal Panvala Allies who shopped at Ally Guide merchants at ETHDenver 2019
+  priceFinney: 10
+  numClonesAllowed: 50
+  tags:
+    - panvala
+    - ally guide
