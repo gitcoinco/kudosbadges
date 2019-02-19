@@ -2120,7 +2120,7 @@
   artist: mehul0698
   description: For those who have a very good logic in solving the problem/issue in hand.
   priceFinney: 50
-  numClonesAllowed: 500
+  numClonesAllowed: 100
   tags: 
     - programming
     - lanugages
