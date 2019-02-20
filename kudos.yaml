@@ -2125,4 +2125,14 @@ name: captain
     - alchemy
     - code
   image: alchemist.svg
+- name: ShowMeWhatYouGot
+  artist: emiwatanabe422
+  description: Show me what you got!
+  priceFinney: 20
+  platform: gitcoin
+  numClonesAllowed: 500
+  tags:
+    - just for fun
+    - meme
+  image: ShowMeWhatYouGot.svg
 
