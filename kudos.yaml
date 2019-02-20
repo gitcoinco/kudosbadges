@@ -2113,7 +2113,6 @@ name: captain
     - alchemy
     - code
   image: alchemist.svg  
-  image: nyan.svg
 - name: nyan_cat
   to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
   artist: cryptodesign
@@ -2124,3 +2123,4 @@ name: captain
     - nyan
     - cat
     - rainbow
+  image: nyan.svg  
