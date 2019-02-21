@@ -2058,6 +2058,18 @@
     - just for fun
     - panvala
     - holidays
+- name: Grammar Programmer
+  artist: uivlis
+  description: Not only did you fix the code, you also fixed that comment that no one noticed!
+  priceFinney: 50
+  numClonesAllowed: 500
+  tags:
+    - spelling
+    - typo
+    - programmer
+    - grammar
+    - comment
+  image: grammar-programmer.svg
   image: fry_shut_up.svg
 - name: philip_j_fry
   to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
@@ -2086,7 +2098,7 @@
 name: captain
   to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
   artist: mehul0698
-  description: Captain kudos.
+  description: Captain Kudos!
   priceFinney: 50
   numClonesAllowed: 500
   tags: 
@@ -2124,3 +2136,15 @@ name: captain
     - cat
     - rainbow
   image: nyan.svg  
+  image: alchemist.svg
+- name: ShowMeWhatYouGot
+  artist: emiwatanabe422
+  description: Show me what you got!
+  priceFinney: 20
+  platform: gitcoin
+  numClonesAllowed: 500
+  tags:
+    - just for fun
+    - meme
+  image: ShowMeWhatYouGot.svg
+
