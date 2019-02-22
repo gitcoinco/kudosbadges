@@ -2166,3 +2166,13 @@
     - just for fun
     - meme
   image: ShowMeWhatYouGot.svg
+- name: Philosoraptor
+  artist: j0ker1234
+  description: For a philosophical thinker.
+  priceFinney: 20
+  numClonesAllowed: 50
+  tags:
+    - thinker
+    - just for fun
+    - meme
+  image: philosorapter.svg
