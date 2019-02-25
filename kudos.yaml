@@ -2177,3 +2177,35 @@
     - mind
     - genius
   image: beautiful_mind.svg
+- name: Philosoraptor
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For a philosophical thinker.
+  priceFinney: 20
+  numClonesAllowed: 50
+  tags:
+    - thinker
+    - just for fun
+    - meme
+  image: philosorapter.svg
+- name: Gamer
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For a Pro Gamer!
+  priceFinney: 20
+  numClonesAllowed: 50
+  tags:
+    - gamer
+    - just for fun
+    - strategy
+  image: video_game.svg
+- name: Superhero
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For someone who's a real life superhero.
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - superhero
+    - superhuman
+  image: superhero.svg
