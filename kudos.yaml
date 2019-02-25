@@ -2209,3 +2209,36 @@
     - superhero
     - superhuman
   image: superhero.svg
+- name: HackerBoy
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For an absolute mad lad coder. 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - hacker
+    - cypherpunk
+  image: hacker.svg
+- name: Ethereum_Pro
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who's ethereum pro. 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - ethereum
+    - cypherpunk
+  image: eth.svg
+- name: Blockchain_Pro
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who's a blockchain pro.
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - cypherpunk
+  image: blockchain.svg
