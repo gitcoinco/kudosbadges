@@ -2220,7 +2220,7 @@
     - hacker
     - cypherpunk
   image: hacker.svg
-- name: Ethereum
+- name: Ethereum_Pro
   to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
   artist: yash412
   description: For someone who's ethereum pro. 
@@ -2231,7 +2231,7 @@
     - ethereum
     - cypherpunk
   image: eth.svg
-- name: Blockchain
+- name: Blockchain_Pro
   to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
   artist: yash412
   description: For someone who's a blockchain pro.
