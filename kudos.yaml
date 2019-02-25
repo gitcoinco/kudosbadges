@@ -2158,6 +2158,7 @@
   image: alchemist.svg
 - name: ShowMeWhatYouGot
   artist: emiwatanabe422
+  to_address: 0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c
   description: Show me what you got!
   priceFinney: 20
   platform: gitcoin
@@ -2166,6 +2167,16 @@
     - just for fun
     - meme
   image: ShowMeWhatYouGot.svg
+- name: beautiful_mind
+  artist: emiwatanabe422
+  to_address: 0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c
+  description: You have a radiant mind!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - mind
+    - genius
+  image: beautiful_mind.svg
 - name: Philosoraptor
   to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
   artist: j0ker1234
