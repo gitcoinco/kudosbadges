@@ -2242,3 +2242,41 @@
     - blockchain
     - cypherpunk
   image: blockchain.svg
+  - name: Network_Security_God
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who's a knows how to keep his network safe. 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - cypherpunk
+    - security
+    - networks
+  image: netsec.svg
+  - name: Watchful_Protector
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who's keeps a watch out for bugs & issues. 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - cypherpunk
+    - bugs
+    - issues
+  image: blockeye.svg
+  - name: Money_Maker
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who's just earned a huge bounty! 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - gitcoin
+    - bounty
+  image: money.svg
