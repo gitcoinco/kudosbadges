@@ -2280,3 +2280,37 @@
     - gitcoin
     - bounty
   image: money.svg
+- name: Abraham Lincoln
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For someone who is always honest.
+  priceFinney: 50
+  numClonesAllowed: 50
+  tags:
+    - honest
+    - superhuman
+    - lincoln
+  image: lincoln.svg
+- name: Rainbow
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For someone who is colourful.
+  priceFinney: 50
+  numClonesAllowed: 50
+  tags:
+    - rainbow
+    - colourful
+    - gold
+  image: rainbow.svg
+- name: Narwhal
+  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  artist: j0ker1234
+  description: For someone who is like a narwhal.
+  priceFinney: 50
+  numClonesAllowed: 50
+  tags:
+    - ocean
+    - fish
+    - narwhal
+    - horn
+  image: rainbow.svg
