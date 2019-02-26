@@ -2242,19 +2242,6 @@
     - blockchain
     - cypherpunk
   image: blockchain.svg
-- name: Inspector
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
-  artist: j0ker1234
-  description: For someone who has many tools.
-  priceFinney: 50
-  numClonesAllowed: 50
-  tags:
-    - superhero
-    - superhuman
-    - inspector
-    - tool
-    - gadget
-  image: inspector.svg
 - name: Abraham Lincoln
   to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
   artist: j0ker1234
