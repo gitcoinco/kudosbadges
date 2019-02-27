@@ -2314,3 +2314,38 @@
     - narwhal
     - horn
   image: rainbow.svg
+     - name: Appreciation
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: For someone who deserves great appreciation :')
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - clap
+    - appreciation
+  image: clap.svg
+    - name: Bug_Detective
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: Professional Bug Killer.  
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - bug
+    - debug
+    - debugger 
+  image: bug21.svg
+    - name: Natural_Coder
+  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  artist: yash412
+  description: Codes flow within you. 
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - gitcoin
+    - natural
+  image: natural.svg
+
