@@ -1831,7 +1831,7 @@
     - documentation
     - knowledge
   image: kauri_1.svg
-  to_address: 0xF8aE578d5d4e570De6c31F26D42eF369C320aE0b
+  to_address: '0xF8aE578d5d4e570De6c31F26D42eF369C320aE0b'
 - name: Web3 Advocate 
   description: Out with the old and in with the new! Kudos to knowledge sharers, crossing the void from web2 to web3.
   priceFinney: 3
@@ -1843,7 +1843,7 @@
     - documentation
     - knowledge
   image: kauri_2.svg
-  to_address: 0xF8aE578d5d4e570De6c31F26D42eF369C320aE0b
+  to_address: '0xF8aE578d5d4e570De6c31F26D42eF369C320aE0b'
 - name: moksha
   description: Moksha is a term in Hinduism, Buddhism, Jainism and Sikhism which refers to various forms of emancipation, enlightenment, liberation, and release.
   priceFinney: 1
@@ -2032,7 +2032,7 @@
     - memes
   image: your_bounty_is_bad_and_you_should_fill_bad.svg
 - name: polyglot_programmer
-  to_address: 0xF5D4020dCA6a62bB1efFcC9212AAF3c9819E30D7
+  to_address: '0xF5D4020dCA6a62bB1efFcC9212AAF3c9819E30D7'
   artist: jakerockland
   description: For those who love languages, programming or otherwise!
   priceFinney: 4
@@ -2049,7 +2049,7 @@
     - ruby
   image: polyglot_programmer.svg
 - name: panvala_holidays
-  to_address: 0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a
+  to_address: '0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a'
   artist: PanvalaMark
   description: Happy holidays from Panvala! Wishing you a new year full of cooperation!
   priceFinney: 1
@@ -2072,7 +2072,7 @@
   image: grammar-programmer.svg
   image: fry_shut_up.svg
 - name: philip_j_fry
-  to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
+  to_address: '0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394'
   artist: cryptodesign
   description: Shut up and take my ether.
   priceFinney: 2
@@ -2085,7 +2085,7 @@
     - ethereum
     image: fry_shut_up.svg
 - name: golden_doge
-  to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
+  to_address: '0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394'
   artist: cryptodesign
   description: Such rare, much shiny, very affordable.
   priceFinney: 2
@@ -2096,7 +2096,7 @@
     - doge
     - gold 
 - name: captain
-  to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
+  to_address: '0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce'
   artist: mehul0698
   description: Captain Kudos.
   priceFinney: 50
@@ -2107,7 +2107,7 @@
     - captain
   image: captain.svg
 - name: ally_guide_denver
-  to_address: 0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a
+  to_address: '0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a'
   artist: PanvalaMark
   description: For loyal Panvala Allies who shopped at Ally Guide merchants at ETHDenver 2019
   priceFinney: 10
@@ -2116,7 +2116,7 @@
     - panvala
     - ally guide
 - name: logical_spock
-  to_address: 0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce
+  to_address: '0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce'
   artist: mehul0698
   description: For those who have a very good logic in solving the problem/issue in hand.
   priceFinney: 50
@@ -2145,7 +2145,7 @@
     - code
   image: alchemist.svg  
 - name: nyan_cat
-  to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
+  to_address: '0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394'
   artist: cryptodesign
   description: Everywhere you go, you leave a rainbow trail of great work behind you.
   priceFinney: 4
@@ -2158,7 +2158,7 @@
   image: alchemist.svg
 - name: ShowMeWhatYouGot
   artist: emiwatanabe422
-  to_address: 0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
   description: Show me what you got!
   priceFinney: 20
   platform: gitcoin
@@ -2169,7 +2169,7 @@
   image: ShowMeWhatYouGot.svg
 - name: beautiful_mind
   artist: emiwatanabe422
-  to_address: 0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
   description: You have a radiant mind!
   priceFinney: 20
   numClonesAllowed: 500
@@ -2178,7 +2178,7 @@
     - genius
   image: beautiful_mind.svg
 - name: Philosoraptor
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For a philosophical thinker.
   priceFinney: 20
@@ -2189,7 +2189,7 @@
     - meme
   image: philosorapter.svg
 - name: Gamer
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For a Pro Gamer!
   priceFinney: 20
@@ -2200,7 +2200,7 @@
     - strategy
   image: video_game.svg
 - name: Superhero
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For someone who's a real life superhero.
   priceFinney: 40
@@ -2210,7 +2210,7 @@
     - superhuman
   image: superhero.svg
 - name: HackerBoy
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For an absolute mad lad coder. 
   priceFinney: 40
@@ -2221,7 +2221,7 @@
     - cypherpunk
   image: hacker.svg
 - name: Ethereum_Pro
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For someone who's ethereum pro. 
   priceFinney: 40
@@ -2232,7 +2232,7 @@
     - cypherpunk
   image: eth.svg
 - name: Blockchain_Pro
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For someone who's a blockchain pro.
   priceFinney: 40
@@ -2243,7 +2243,7 @@
     - cypherpunk
   image: blockchain.svg
   - name: Network_Security_God
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For someone who's a knows how to keep his network safe. 
   priceFinney: 40
@@ -2256,7 +2256,7 @@
     - networks
   image: netsec.svg
   - name: Watchful_Protector
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For someone who's keeps a watch out for bugs & issues. 
   priceFinney: 40
@@ -2269,7 +2269,7 @@
     - issues
   image: blockeye.svg
   - name: Money_Maker
-  to_address: 0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
   description: For someone who's just earned a huge bounty! 
   priceFinney: 40
@@ -2281,7 +2281,7 @@
     - bounty
   image: money.svg
 - name: Abraham Lincoln
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For someone who is always honest.
   priceFinney: 50
@@ -2292,7 +2292,7 @@
     - lincoln
   image: lincoln.svg
 - name: Rainbow
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For someone who is colourful.
   priceFinney: 50
@@ -2303,7 +2303,7 @@
     - gold
   image: rainbow.svg
 - name: Narwhal
-  to_address: 0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
   artist: j0ker1234
   description: For someone who is like a narwhal.
   priceFinney: 50
