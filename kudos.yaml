@@ -2368,3 +2368,13 @@
     - problem
     - algorithm
   image: prob_solver.svg
+- name: People Connector
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
+  artist: j0ker1234
+  description: This is for someone who connects people.
+  priceFinney: 25
+  numClonesAllowed: 200
+  tags:
+    - connecter
+    - people
+  image: connector.svg
