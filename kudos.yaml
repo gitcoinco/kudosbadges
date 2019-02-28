@@ -2358,3 +2358,13 @@
     - friend
     - beginner
   image: friend.svg
+- name: Problem Solver
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
+  artist: j0ker1234
+  description: This is for someone who is a good problem solver.
+  priceFinney: 40
+  numClonesAllowed: 100
+  tags:
+    - problem
+    - algorithm
+  image: prob_solver.svg
