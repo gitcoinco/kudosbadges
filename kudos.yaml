@@ -2313,7 +2313,7 @@
     - fish
     - narwhal
     - horn
-  image: rainbow.svg
+  image: narwhal.svg
      - name: Appreciation
   to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
   artist: yash412
@@ -2348,4 +2348,13 @@
     - gitcoin
     - natural
   image: natural.svg
-
+- name: Invite a Friend
+  to_address: '0x11328DFcD09ae7d2F40AAc3D544D0700bB222C47'
+  artist: j0ker1234
+  description: This is for a friend who is new to gitcoin. 
+  priceFinney: 20
+  numClonesAllowed: 300
+  tags:
+    - friend
+    - beginner
+  image: friend.svg
