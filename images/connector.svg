@@ -20,7 +20,7 @@
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
      id="metadata482"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs480"><radialGradient
        gradientUnits="userSpaceOnUse"
        r="49.6877"
@@ -56,9 +56,9 @@
      inkscape:window-height="779"
      id="namedview478"
      showgrid="false"
-     inkscape:zoom="1.8377628"
-     inkscape:cx="55.489498"
-     inkscape:cy="64.208504"
+     inkscape:zoom="3.6755256"
+     inkscape:cx="55.031596"
+     inkscape:cy="65.236598"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -83,7 +83,7 @@
          d="m 56.158,11.572 -46.07,26.56 v 53.12 l 1.67,0.96 0.63,0.37 h 0.01 l 14.8,8.53 4.01,2.31 1.04,0.6 2.18,1.26 0.49,0.28 0.44,0.26 0.36,0.21 3.13,1.8 3.31,1.91 1.29,0.74 v 0.01 l 12.71,7.32 46.07,-26.56 v -53.12 z m 44.21,78.61 -44.21,25.49 -12.51,-7.21 -17.89,-10.32 -13.81,-7.96 v -50.97 l 44.21,-25.49 44.21,25.49 z"
          enable-background="new    " /></g></g><g
      id="g1767"
-     transform="matrix(0.14112903,0,0,0.14112903,21.428001,23.342001)"><path
+     transform="matrix(0.15524194,0,0,0.15524194,18,15.342005)"><path
        id="path1648"
        d="M 432,248 C 432,349.62109 349.62109,432 248,432 146.37891,432 64,349.62109 64,248 64,146.37891 146.37891,64 248,64 c 101.62109,0 184,82.37891 184,184 z m 0,0"
        inkscape:connector-curvature="0"
