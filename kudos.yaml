@@ -2348,4 +2348,15 @@
     - gitcoin
     - natural
   image: natural.svg
-
+  - name: Deadly_Coder
+  to_address: '0xD27D4fE82aCF5eaBb78723eC0F624c8127c64972'
+  artist: yash412
+  description: The badge says enough already.  
+  priceFinney: 40
+  numClonesAllowed: 50
+  tags:
+    - coder
+    - blockchain
+    - deadly
+    - skull
+  image: deadly.svg
