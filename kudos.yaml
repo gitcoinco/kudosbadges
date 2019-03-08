@@ -2115,6 +2115,7 @@
   tags:
     - panvala
     - ally guide
+  image: ally_guide_denver.svg
 - name: ally_guide_paris_spring_2019
   to_address: '0xc6b0a4c5BA85d082eCd4Fb05FBF63eb92AC1083a'
   artist: PanvalaMark
@@ -2125,6 +2126,7 @@
     - panvala
     - ally guide
     - paris
+  image: ally_guide_paris_spring_2019.svg
 - name: logical_spock
   to_address: '0xb9c4668CEf8B52b1A0751Dcf14605Cd90F8c9Fce'
   artist: mehul0698
@@ -2144,7 +2146,6 @@
     - algorithms
     - compliments
   image: logical_spock.svg
-  image: ally_guide_denver.svg
 - name: alchemist
   artist: You are a master of the alchemy of code!
   description: You are a master of the alchemy of code!
