@@ -2147,4 +2147,15 @@ name: captain
     - just for fun
     - meme
   image: ShowMeWhatYouGot.svg
+  - name: tamagotchi
+  to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
+  artist: cryptodesign
+  description: Your very own handheld digital roboto pet, don't forget to feed him ether.
+  priceFinney: 20
+  numClonesAllowed: 90
+  tags:
+    - pet
+    - roboto
+    - tamagotchi
+  image: Tamagotchi.svg 
 
