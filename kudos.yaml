@@ -2161,9 +2161,9 @@ name: captain
   - name: ethereal-gameboy
   to_address: 0x4b00a17a8A4c7dC2f71777207B1C1Bd6C132D394
   artist: cryptodesign
-  description: Your very own handheld digital roboto pet, don't forget to feed him ether.
+  description: Booting up Ethereal Summit 2019.
   priceFinney: 20
-  numClonesAllowed: 90
+  numClonesAllowed: 200
   tags:
     - animated
     - 2019
