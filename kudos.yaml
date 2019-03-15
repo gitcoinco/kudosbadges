@@ -2401,3 +2401,23 @@
     - deadly
     - skull
   image: deadly.svg
+- name: Tamagotchi
+  artist: cryptodesign
+  description: Your very own handheld digital roboto pet, don't forget to feed him ether.
+  priceFinney: 20
+  numClonesAllowed: 90
+  tags:
+    - pet
+    - roboto
+    - tamagotchi
+  image: Tamagotchi.svg 
+- name: Ethereal-gameboy
+  artist: cryptodesign
+  description: Booting up Ethereal Summit 2019.
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - animated
+    - gameboy
+    - ethereal
+  image: Gameboy.svg 
