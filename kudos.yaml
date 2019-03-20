@@ -2555,6 +2555,28 @@
     - ninja turles
     - ethereal
   image: 90_12.svg
+- name: Ethereal-Consensys
+  artist: yash412
+  description: Retro Consensys Logo
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - 90s
+    - retro
+    - consensys
+    - ethereal
+  image: consensys.svg
+- name: Ethereal-Ethereum
+  artist: yash412
+  description: Retro Ethereum Logo
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - 90s
+    - retro
+    - ethereum
+    - ethereal
+  image: ethpl.svg
 
 
 
