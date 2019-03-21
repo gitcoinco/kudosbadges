@@ -2577,6 +2577,28 @@
     - ethereum
     - ethereal
   image: ethpl.svg
+- name: Ethereal-Saved_By_The_Bell!
+  artist: yash412
+  description: The timer saved your butt.
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - retro
+    - bell
+    - timer
+    - ethereal
+  image: saved_by_bell.svg
+- name: Shepherd
+  artist: yash412
+  description: Countryside Shepherd
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Shepherd
+    - Country
+    - Sheep
+    - Landscape
+  image: shepherd.svg
 
 
 
