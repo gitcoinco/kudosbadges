@@ -2599,6 +2599,17 @@
     - Sheep
     - Landscape
   image: shepherd.svg
+- name: Saved_By_The_Bell 
+  artist: yash412
+  description: 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Ethereal
+    - bell
+    - nostalgia
+    - tv
+  image: bell2.svg
 
 
 
