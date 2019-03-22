@@ -2610,6 +2610,17 @@
     - nostalgia
     - tv
   image: bell2.svg
+- name: Hackathon_Judge
+  artist: yash412
+  description: 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Ethereal
+    - hackathon
+    - judge
+    - gitcoin
+  image: judge.svg
 
 
 
