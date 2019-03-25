@@ -2555,6 +2555,72 @@
     - ninja turles
     - ethereal
   image: 90_12.svg
+- name: Ethereal-Consensys
+  artist: yash412
+  description: Retro Consensys Logo
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - 90s
+    - retro
+    - consensys
+    - ethereal
+  image: consensys.svg
+- name: Ethereal-Ethereum
+  artist: yash412
+  description: Retro Ethereum Logo
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - 90s
+    - retro
+    - ethereum
+    - ethereal
+  image: ethpl.svg
+- name: Ethereal-Saved_By_The_Bell!
+  artist: yash412
+  description: The timer saved your butt.
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - retro
+    - bell
+    - timer
+    - ethereal
+  image: saved_by_bell.svg
+- name: Shepherd
+  artist: yash412
+  description: Countryside Shepherd
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Shepherd
+    - Country
+    - Sheep
+    - Landscape
+  image: shepherd.svg
+- name: Saved_By_The_Bell 
+  artist: yash412
+  description: 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Ethereal
+    - bell
+    - nostalgia
+    - tv
+  image: bell2.svg
+- name: Hackathon_Judge
+  artist: yash412
+  description: 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Ethereal
+    - hackathon
+    - judge
+    - gitcoin
+  image: judge.svg
 
 
 
