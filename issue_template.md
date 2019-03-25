@@ -49,7 +49,7 @@ tags (string, comma delimited): ethereum, hacker, hackathon, eth
 <!--
 REQUIRED
 
-Please send 0.4 ETH to 0xdb282cee382244e05dd226c8809d2405b76fbdc9 and paste a link to the txid into this section.  
+Please send 0.5 ETH to 0xdb282cee382244e05dd226c8809d2405b76fbdc9 and paste a link to the txid into this section.  
 
 Sending this ETH shows us that you are serious about creating this artwork, and allows us to pay the illustrator.
 
