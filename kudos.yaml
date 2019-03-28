@@ -2621,6 +2621,86 @@
     - judge
     - gitcoin
   image: judge.svg
+- name: Pokemon_Pikachu
+  artist: yash412
+  description: Pika Pika!
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - Pikachu
+    - 90s
+  image: pikachu.svg
+- name: Pokemon_Snorlax
+  artist: yash412
+  description: Sleeping, do not disturb or I'll errupt. 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - Pikachu
+    - 90s
+  image: snorlax.svg
+- name: Pokemon_Charmander
+  artist: yash412
+  description: Playing with fire! 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - Charmander
+    - 90s
+  image: charmander.svg
+- name: Pokemon_Eevee
+  artist: yash412
+  description: Evolution is second nature to me.
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - eevee
+    - 90s
+  image: eevee.svg
+- name: Pokemon_Bullbasaur
+  artist: yash412
+  description: As green as this world itself, oh wait. 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - bullbasaur
+    - 90s
+  image: bullbasaur.svg
+- name: Pokemon_Jigglypuff
+  artist: yash412
+  description: Jiggly Jiggly Jiggly Puff!
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - jigglypuff
+    - 90s
+  image: jigglypuff.svg
+- name: Pokemon_Meowth
+  artist: yash412
+  description: Team Rocket! 
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - meowth
+    - 90s
+  image: meowth.svg
+- name: Pokemon_Pidgey
+  artist: yash412
+  description: Fly high like a pidgey?
+  priceFinney: 20
+  numClonesAllowed: 200
+  tags:
+    - Pokemon
+    - pidgey
+    - 90s
+  image: pidgey.svg
 
 
 
