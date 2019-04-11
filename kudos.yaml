@@ -2747,7 +2747,61 @@
     - Grenade
     - Holy
   image: hhg.svg
-
+- name: cryptokitty
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: A whole Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty.svg
+- name: cryptokitty_head
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The head of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_head.svg
+- name: cryptokitty_arm
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The arm of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_arm.svg
+- name: cryptokitty_body
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The body of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_body.svg
+- name: cryptokitty_tail
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The tail of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_tail.svg
 
 
 
