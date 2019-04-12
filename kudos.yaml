@@ -2747,7 +2747,7 @@
     - Grenade
     - Holy
   image: hhg.svg
-   - name: Fun time!
+- name: Fun time!
   to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
   artist: guistf
   description: Time to remember the best childhood games.
