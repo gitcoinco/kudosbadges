@@ -2906,5 +2906,53 @@
     - ethereal
     - cryptokitty
   image: kitties_asset6.svg
+- name: falcon_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: falcon.svg
+- name: genie_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: genie.svg
+- name: industrial_lunchpale_worker_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: lunchbox.svg
+- name: wonder_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: wonderwoman.svg
 
 
