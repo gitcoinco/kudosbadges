@@ -2746,7 +2746,44 @@
   tags:
     - Grenade
     - Holy
-  image: hhg.svg
+  image: 90_games.svg
+- name: Fun time!
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  artist: guistf
+  description: Time to remember the best childhood games.
+  priceFinney: 10
+  numClonesAllowed: 500
+  tags:
+    - fun
+    - tamagotchi
+    - Rubiks Cube
+    - strategy
+    - gameboy
+  image: Cassette.svg
+- name: let's play some music
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  artist: guistf
+  description: For those who like a good classic of the 90's.
+  priceFinney: 10
+  numClonesAllowed: 500
+  tags:
+    - music
+    - just for fun
+    - cassette
+    - play
+  image: pogs.svg
+- name: POGs
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  artist: guistf
+  description: Fun images printed making them supremely collectible.
+  priceFinney: 10
+  numClonesAllowed: 500
+  tags:
+    - Pac man
+    - snakes
+    - game
+    - School
+
 
 
 
