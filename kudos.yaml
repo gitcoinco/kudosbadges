@@ -2747,8 +2747,72 @@
     - Grenade
     - Holy
   image: hhg.svg
-- name: Fun time!
-  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+- name: Ambo_Launch_Kudos
+  artist: jbhav24
+  to_address: '0xCb1D5db9bD5C41b8B3cf223920554cA1A58F6A6C'
+  description: A special gift to the early users of the Ambo Wallet! 
+  priceFinney: 20
+  numClonesAllowed: 1000
+  tags:
+    - Ambo
+    - MyCrypto
+  image: ambo_lambo.svg
+- name: cryptokitty
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: A whole Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty.svg
+- name: cryptokitty_head
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The head of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_head.svg
+- name: cryptokitty_arm
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The arm of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_arm.svg
+- name: cryptokitty_body
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The body of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_body.svg
+- name: cryptokitty_tail
+  artist: emiwatanabe422
+  to_address: '0x9a5eF5D1AE95ca2c16872e8Dd4065b88a8441A5c'
+  description: The tail of a Crypto Kitty bot. Collect all of the Crypto Kitty bot Kudos for a chance to win a real genuine Crypto Kitty!
+  priceFinney: 20
+  numClonesAllowed: 500
+  tags:
+    - Crypto Kitty
+    - Ethereal Summit
+    - Collectable
+  image: cryptokitty/cryptokitty_tail.svg
+- name: Fun_time
   artist: guistf
   description: Time to remember the best childhood games.
   priceFinney: 10
@@ -2762,6 +2826,8 @@
   image: 90_games.svg
 - name: let's play some music
   to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  image: Cassette.svg
+- name: lets_play_some_music
   artist: guistf
   description: For those who like a good classic of the 90's.
   priceFinney: 10
@@ -2774,6 +2840,8 @@
   image: Cassette.svg
 - name: POGs
   to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  image: pogs.svg
+- name: POGs
   artist: guistf
   description: Fun images printed making them supremely collectible.
   priceFinney: 10
@@ -2784,7 +2852,136 @@
     - game
     - School
   image: pogs.svg
-
-
+- name: Helper Fox
+  description: You are a cherished member of the MetaMask community. Thanks for helping!
+  priceFinney: 
+  numClonesAllowed: 500
+  to_address: "0x12c8ff915ad423cfA1c03E6D0749F1eBAc582959"
+  tags: 
+    - ethereum
+    - metamask
+    - community
+    - bugs
+    - mobile
+  image: metamask_helper.svg
+- name: kitty_part_1
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset1.svg
+- name: kitty_part_2
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset2.svg
+- name: kitty_part_3
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset3.svg
+- name: kitty_part_4
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset4.svg
+- name: kitty_part_5
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset5.svg
+- name: kitty_part_6
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset6.svg
+- name: falcon_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: falcon.svg
+- name: genie_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: genie.svg
+- name: industrial_lunchpale_worker_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: lunchbox.svg
+- name: wonder_bot
+  description: Just for fun, this Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: wonderwoman.svg
+- name: alpha_5_bot
+  description: Just for fun, this Alpha 5 Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: go_go_power_rangers.svg
+- name: blue_spikey_shell
+  description: For the contributor to your repo thats a heat seeking missile for problems
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - mario kart parody
+  - just for fun
+  - gitcoin
+  image: blue_spikey_shells.svg
 
 
