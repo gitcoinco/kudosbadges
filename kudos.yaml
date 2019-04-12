@@ -2823,6 +2823,9 @@
     - Rubiks Cube
     - strategy
     - gameboy
+  image: 90_games.svg
+- name: let's play some music
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
   image: Cassette.svg
 - name: lets_play_some_music
   artist: guistf
@@ -2834,6 +2837,9 @@
     - just for fun
     - cassette
     - play
+  image: Cassette.svg
+- name: POGs
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
   image: pogs.svg
 - name: POGs
   artist: guistf
@@ -2845,7 +2851,7 @@
     - snakes
     - game
     - School
-  image: 90_games.svg
+  image: pogs.svg
 - name: Helper Fox
   description: You are a cherished member of the MetaMask community. Thanks for helping!
   priceFinney: 
