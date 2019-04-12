@@ -2846,4 +2846,65 @@
     - game
     - School
   image: 90_games.svg
+- name: Helper Fox
+  description: You are a cherished member of the MetaMask community. Thanks for helping!
+  priceFinney: 
+  numClonesAllowed: 500
+  to_address: "0x12c8ff915ad423cfA1c03E6D0749F1eBAc582959"
+  tags: 
+    - ethereum
+    - metamask
+    - community
+    - bugs
+    - mobile
+  image: metamask_helper.svg
+- name: kitty_part_1
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset1.svg
+- name: kitty_part_2
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset2.svg
+- name: kitty_part_3
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset3.svg
+- name: kitty_part_4
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset4.svg
+- name: kitty_part_5
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset5.svg
+- name: kitty_part_6
+  description: This is a part of a cryptokitty, collected at Ethereal 2019.
+  priceFinney: 1
+  numClonesAllowed: 2000
+  tags: 
+    - ethereal
+    - cryptokitty
+  image: kitties_asset6.svg
+
 
