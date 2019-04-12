@@ -2954,5 +2954,28 @@
   - just for fun
   - gitcoin
   image: wonderwoman.svg
+- name: alpha_5_bot
+  description: Just for fun, this Alpha 5 Gitcoin Robot is a way of celebrating the contributors
+    in your life.
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - robot
+  - just for fun
+  - gitcoin
+  image: go_go_power_rangers.svg
+- name: blue_spikey_shell
+  description: For the contributor to your repo thats a heat seeking missile for problems
+  priceFinney: 2
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - mario kart parody
+  - just for fun
+  - gitcoin
+  image: blue_spikey_shells.svg
 
 
