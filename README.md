@@ -61,7 +61,9 @@ You only need to run this script if the kudos.yaml file doesn't already exist.
 
 ## See also
 
-[Kudos721Contract Repo](https://github.com/gitcoinco/Kudos721Contract)
+- [kudosbadges Repo](https://github.com/gitcoinco/kudosbadges)
+- [kudos python client](https://github.com/OpenKudos/python_client)
+- [kudos contract Repo](https://github.com/gitcoinco/Kudos721Contract)
 
 
 
