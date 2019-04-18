@@ -2983,5 +2983,66 @@
   - just for fun
   - gitcoin
   image: blue_spikey_shells.svg
-
-
+- name: microsoft
+  artist: mladenpetronijevic
+  to_address: '0x9e3788ff41d4f73051583c6fc8b5642ea5769dc7'
+  description: Kudos from Microsoft!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/microsoft.svg
+- name: quorum
+  artist: mladenpetronijevic
+  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  description: Kudos from Quorum!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/quorum.svg
+- name: mythx
+  artist: mladenpetronijevic
+  to_address: '0x393376e59bD40A4FBeDEeD3e44697eC4E00299D9'
+  description: Kudos from MythX!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/mythx.svg
+- name: consensys_labs
+  artist: mladenpetronijevic
+  to_address: '0x249196a49F367841F5FA1Aa6Fd37657CC2Ea693c'
+  description: Kudos from ConsenSys Labs!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/consensys_labs.svg
+- name: fortmatic
+  artist: mladenpetronijevic
+  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  description: Kudos from Fortmatic!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/fortmatic.svg
+- name: pegasys
+  artist: jakehaugen
+  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  description: Kudos from PEGASYS!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/pegasys.svg
+- name: ad_ex
+  artist: mladenpetronijevic
+  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  description: Kudos from AdEx!
+  priceFinney: 20
+  numClonesAllowed: 100
+  tags:
+    - Ethereal Virtual Hackathon
+  image: evh2019/ad_ex.svg
