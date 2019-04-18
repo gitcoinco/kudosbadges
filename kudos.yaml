@@ -2994,7 +2994,7 @@
   image: evh2019/microsoft.svg
 - name: quorum
   artist: mladenpetronijevic
-  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  to_address: '0x185dc280Db47457550BEf6876a5c9D5a82d228c2'
   description: Kudos from Quorum!
   priceFinney: 20
   numClonesAllowed: 100
