@@ -3030,7 +3030,7 @@
   image: evh2019/fortmatic.svg
 - name: pegasys
   artist: jakehaugen
-  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  to_address: '0xDaA65a7e57766ba333d3f6712937da6D54947085'
   description: Kudos from PEGASYS!
   priceFinney: 20
   numClonesAllowed: 100
@@ -3039,7 +3039,7 @@
   image: evh2019/pegasys.svg
 - name: ad_ex
   artist: mladenpetronijevic
-  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  to_address: '0xd6e371526cdaeE04cd8AF225D42e37Bc14688D9E'
   description: Kudos from AdEx!
   priceFinney: 20
   numClonesAllowed: 100
