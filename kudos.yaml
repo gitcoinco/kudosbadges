@@ -2992,7 +2992,7 @@
   - ethereum
   - gitcoin
   image: pogs_eth_elements.svg
-- name: ethereal_hackaton
+- name: ethereal_hackathon
   description: Do you like epic challenges? Is it euphoric with passion for the development open source
    between promoters and collaborators ,contributing to technological evolution? So this kudo is for you!
   priceFinney: 10
