@@ -2813,6 +2813,7 @@
     - Collectable
   image: cryptokitty/cryptokitty_tail.svg
 - name: Fun_time
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
   artist: guistf
   description: Time to remember the best childhood games.
   priceFinney: 10
@@ -2826,8 +2827,6 @@
   image: 90_games.svg
 - name: let's play some music
   to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
-  image: Cassette.svg
-- name: lets_play_some_music
   artist: guistf
   description: For those who like a good classic of the 90's.
   priceFinney: 10
@@ -2840,8 +2839,6 @@
   image: Cassette.svg
 - name: POGs
   to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
-  image: pogs.svg
-- name: POGs
   artist: guistf
   description: Fun images printed making them supremely collectible.
   priceFinney: 10
@@ -2983,5 +2980,87 @@
   - just for fun
   - gitcoin
   image: blue_spikey_shells.svg
+   - name: pogs_eth_elements
+  description: The Classic 90's Pogs collection with ethereal elements, great for offering unique contributors.
+  priceFinney: 10
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 250
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - pogs
+  - ethereum
+  - gitcoin
+  image: pogs_eth_elements.svg
+- name: ethereal_hackaton
+  description: Do you like epic challenges? Is it euphoric with passion for the development open source
+   between promoters and collaborators ,contributing to technological evolution? So this kudo is for you!
+  priceFinney: 10
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 100
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - ethereal
+  - hackathon
+  - developer
+  image: eth_hackaton.svg
+- name: smart_contract
+  description: This Kudo is to honor the important work of collaborators who audit and report vulnerabilities in smart contracts.
+  priceFinney: 10
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 500
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - smart contract
+  - developer
+  - safe
+  image: smart_contract.svg
+- name: web_assembly_dev
+  description: Do you look for a developer who cares about a fast, efficient and portable code? 
+  Safe, readable and debuggable code? Owners of this badge are known to dominate WebAssembly.
+  priceFinney: 15
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 150
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - web assembly
+  - developer
+  - ai
+  - audit
+  - programming
+  - project
+  image: web_assembly_dev.svg
+- name: think_outside_the_box
+  description: The owners of this kudos do not think of obvious solutions. They are collaborators
+   who have put in the power of creativity in solving problems. They do not think outside the box!
+   They think the box does not exist!
+  priceFinney: 10
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 500
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - ideas
+  - agile
+  - creative
+  image: think_outside_the_box.svg
+- name: artificial_intelligence
+  description: AI will be an essential solution for new challenges in the future. Are you looking for your teacher?
+   You have found the collaborator who is beyond your time and who loves to talk to the machines!
+  priceFinney: 40
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 50
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - ai
+  - intelligence
+  - audit
+  - autonomous
+  - machine
+  image: artificial_intelligence.svg
 
 
