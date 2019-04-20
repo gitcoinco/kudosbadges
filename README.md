@@ -38,7 +38,7 @@ Right now, we expect that most ppl will want to do Gitcoin-Funded kudos art. But
 0. Kudos must be ORIGINAL art or art you own the liscense to.  If you are creating a Gitcoin-funded kudos, [email us](mailto:founders@gitcoin.co) to negotiate a rate for your artwork.  Please include your portfolio link.  If you are going the Self Sovereign route, skip this step and proceed to next step.
 1. Checkout the latest [kudos design guide](https://github.com/gitcoinco/creative/blob/master/Product/kudos_guide/kudosguide_latest.pdf). You can download the base kudos template here: [illustrator template](https://github.com/gitcoinco/kudosbadges/raw/master/kudos_template.ai) or the [svg template](https://github.com/gitcoinco/kudosbadges/blob/master/kudos_template.svg)
 2. Checkout the latest [ideas for kudos](https://github.com/gitcoinco/kudosbadges/projects/1).
-3. [Open up a PR against this repo](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with your proposed artwork in it.
+3. [Open up a PR against this repo](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) with your proposed artwork in it.  [Here is an example PR you can copy](https://github.com/gitcoinco/kudosbadges/pull/219/files)
 
 # Dev Stuff
 
@@ -61,7 +61,9 @@ You only need to run this script if the kudos.yaml file doesn't already exist.
 
 ## See also
 
-[Kudos721Contract Repo](https://github.com/gitcoinco/Kudos721Contract)
+- [kudosbadges Repo](https://github.com/gitcoinco/kudosbadges)
+- [kudos python client](https://github.com/OpenKudos/python_client)
+- [kudos contract Repo](https://github.com/gitcoinco/Kudos721Contract)
 
 
 
