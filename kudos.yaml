@@ -3021,7 +3021,7 @@
   image: evh2019/consensys_labs.svg
 - name: fortmatic
   artist: mladenpetronijevic
-  to_address: '0xf8FF19540E3622fcFF40d1b1EEcC93C1C6fBd6f3'
+  to_address: '0xE0cef4417a772512E6C95cEf366403839b0D6D6D'
   description: Kudos from Fortmatic!
   priceFinney: 20
   numClonesAllowed: 100
