@@ -3155,4 +3155,13 @@
   tags:
   - Glen
   image: glen.svg
+- name: pandoras_box
+  description: For the contributor to your repo who opened Pandoras Box
+  priceFinney: 10
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - Pandoras Box
+  image: pandoras_box.svg
 
