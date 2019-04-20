@@ -2649,7 +2649,7 @@
     - judge
     - gitcoin
   image: judge.svg
-- name: Pokemon_Pikachu
+- name: Pikaaaa
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Pika Pika!
@@ -2660,7 +2660,7 @@
     - Pikachu
     - 90s
   image: pikachu.svg
-- name: Pokemon_Snorlax
+- name: Snor-ey
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Sleeping, do not disturb or I'll errupt. 
@@ -2671,7 +2671,7 @@
     - Pikachu
     - 90s
   image: snorlax.svg
-- name: Pokemon_Charmander
+- name: Charm-bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Playing with fire! 
@@ -2682,7 +2682,7 @@
     - Charmander
     - 90s
   image: charmander.svg
-- name: Pokemon_Eevee
+- name: Eeveeee_bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Evolution is second nature to me.
@@ -2693,7 +2693,7 @@
     - eevee
     - 90s
   image: eevee.svg
-- name: Pokemon_Bullbasaur
+- name: Bullba_bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: As green as this world itself, oh wait. 
@@ -2704,7 +2704,7 @@
     - bullbasaur
     - 90s
   image: bullbasaur.svg
-- name: Pokemon_Jigglypuff
+- name: Jiggly_bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Jiggly Jiggly Jiggly Puff!
@@ -2715,7 +2715,7 @@
     - jigglypuff
     - 90s
   image: jigglypuff.svg
-- name: Pokemon_Meowth
+- name: Meow_bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Team Rocket! 
@@ -2726,7 +2726,7 @@
     - meowth
     - 90s
   image: meowth.svg
-- name: Pokemon_Pidgey
+- name: Pidgeon_bot
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
   description: Fly high like a pidgey?
@@ -2740,7 +2740,7 @@
 - name: Holy_Hand_Grenade
   artist: yash412
   to_address: '0xa40c2140a4B369Eb5AAccb2E7BADCa50E2892A74'
-  description: Explosion of holyness. 
+  description: First shalt thou take out the Holy Pin.  Then, shalt thou count to three, no more, no less.  Three shalt be the number thou shalt count, and the number of the counting shall be three. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in my sight, shall snuff it
   priceFinney: 20
   numClonesAllowed: 200
   tags:
