@@ -27,9 +27,16 @@ ex:
 
 description (varchar, up to 500 characters -- no profanity): You spin up DAPPS on the weekend, just for fun.
 priceFinney (positive integer): 1
+artist (github/gitcoin username): owocki
 numClonesAllowed (positive integer): 100
 to_address (web3 address): 0x0f...ab0
-tags (string, comma delimited): ethereum, hacker, hackathon, eth
+can_be_sent_by (github/gitcoin username, blank for 'send by anyone'): owocki
+marketplace_listed (true/false): True
+tags (string, comma delimited): 
+ - ethereum
+ - hacker
+ - hackathon
+ - eth
 
 
 -->
@@ -37,9 +44,12 @@ tags (string, comma delimited): ethereum, hacker, hackathon, eth
 ```
 - name: 
   description: 
+  artist: 
   priceFinney: 
   numClonesAllowed: 
   to_address: 
+  can_be_sent_by: 
+  marketplace_listed: True
   tags: 
    - tag1
    - tag2
