@@ -3161,3 +3161,42 @@
   - consensys diligence
   - pythx
   image: mythx_platform.svg
+- name: BDFL
+  description: Benevolent dictator for life (BDFL) is a title given to a small number of open-source software development leaders, typically project founders who retain the final say in disputes or arguments within the community
+  priceFinney: 10
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - just for fun
+  - leadership
+  image: BDFL.svg
+- name: junior_release_manager
+  description: A merit badge for the junior ranger-- err junior release managers in your team.
+  priceFinney: 1
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - just for fun
+  - leadership
+  image: junior_release_menager.svg
+- name: glen_award
+  description: GlenAward is created to display the RadicalxChange ideas & other stuff ! Creation inspired by an original idea of @DeanEigenmann !
+  priceFinney: 3000
+  artist: AnonVitalik
+  platform: gitcoin
+  to_address: "0x22e07f416cc960C30139BFef2a4e06bf4d2aA17E"
+  numClonesAllowed: 1
+  tags:
+  - Glen
+  image: glen.svg
+- name: pandoras_box
+  description: For the contributor to your repo who opened Pandoras Box
+  priceFinney: 10
+  artist: mladen
+  platform: gitcoin
+  numClonesAllowed: 100
+  tags:
+  - Pandoras Box
+  image: pandoras_box.svg
