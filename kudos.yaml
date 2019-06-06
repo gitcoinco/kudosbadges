@@ -3125,6 +3125,42 @@
   tags:
     - Ethereal Virtual Hackathon
   image: evh2019/ad_ex.svg
+- name: ethereal_hackathon_partners
+  description: The evolution is made through opportunities, collaborations, and knowledge sharing. 
+  That's why good partnerships are the pillar for great results.
+  priceFinney: 30
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 25
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - Ethereal
+  - hackathon
+  - community
+  - partnerships
+  - collaborations
+  - Ethereal Virtual Hackathon
+  image: ethereal_hackathon_partners.svg
+- name: mythx_platform
+  description: The importance of smart contract auditing is essential for the interoperability of an ecosystem. 
+  Do you look for a collaborator who holds these abilities? The holders of those kudos are committed to 
+  the ethics and safety of their work.
+  priceFinney: 30
+  artist: guistf
+  platform: gitcoin
+  numClonesAllowed: 80
+  to_address: '0xa6d91F3795f934bb5f703724337f39C0f1a95fD5'
+  tags:
+  - Mythx
+  - Intelligence
+  - Audit
+  - autonomous
+  - smart contract
+  - tools
+  - security
+  - consensys diligence
+  - pythx
+  image: mythx_platform.svg
 - name: BDFL
   description: Benevolent dictator for life (BDFL) is a title given to a small number of open-source software development leaders, typically project founders who retain the final say in disputes or arguments within the community
   priceFinney: 10
@@ -3164,4 +3200,3 @@
   tags:
   - Pandoras Box
   image: pandoras_box.svg
-
