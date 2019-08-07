@@ -3200,3 +3200,13 @@
   tags:
   - Pandoras Box
   image: pandoras_box.svg
+- name: codefund_influencer_v1.0
+  description: Limited Edition CodeFund Kudos! These are only awarded to first round influences of the CodeFund advertising platform
+  priceFinney: 200
+  artist: coderberry
+  platform: gitcoin
+  numClonesAllowed: 150
+  tags:
+  - rare
+  - codefund
+  image: codefund/codefund_influencer_v1.0.svg
