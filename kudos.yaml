@@ -3210,7 +3210,7 @@
   - rare
   - codefund
   image: codefund/codefund_influencer_v1.0.svg
-  - name: 10_bounties_completed
+- name: 10_bounties_completed
   description: This kudos is for those who have completed 10 bounties
   priceFinney: 30
   artist: ososco
@@ -3220,3 +3220,23 @@
   - gitcoin
   - bounties
   image: 10_bounties_completed.svg
+- name: 3_bounties_completed
+  description: This kudos is for those who have completed 3 bounties
+  priceFinney: 20
+  artist: ososco
+  platform: gitcoin
+  numClonesAllowed: 500
+  tags:
+  - gitcoin
+  - bounties
+  image: 3_bounties_completed.svg
+- name: 1_bounty_completed
+  description: This kudos is for those who have completed 1 bounty
+  priceFinney: 10
+  artist: ososco
+  platform: gitcoin
+  numClonesAllowed: 1000
+  tags:
+  - gitcoin
+  - bounties
+  image: 1_bounty_completed.svg
